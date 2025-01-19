@@ -24,7 +24,7 @@ Transportation safety, Motion tracking, Sensor/Signal processing, Optimization, 
 ##### 3. Reinforcement Learning
 [CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) by Emma Brunskill at Stanford University
 ##### 4. Deep Learning
-[CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) at by Andrew Ng Stanford University
+[CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) by Andrew Ng at Stanford University
 
 ---
 <br>
