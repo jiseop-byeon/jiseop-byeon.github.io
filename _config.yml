@@ -43,3 +43,6 @@ author:
 locale: "en-US"
 timezone: "America/Chicago"
 theme_skin: "default"
+
+include:
+  - assets
