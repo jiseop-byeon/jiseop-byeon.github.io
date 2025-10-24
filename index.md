@@ -14,7 +14,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ## 🎓 Education
 - **M.S. in Civil Engineering** — The University of Texas at Austin, Texas, USA  
   *Expected Graduation: May 2026*  
-- **B.S. in Architectural Engineering (Minor in Mechanical Engineering)** — Hanyang University, Seoul, Korea  
+- **B.S. in Architectural Engineering** — Hanyang University, Seoul, Korea  
+  Minor in Mechanical Engineering
 
 ---
 
