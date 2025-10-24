@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
+title: "Home"
 ---
 
 # 👋 Hi there, I'm **Jiseop Byeon**
@@ -9,10 +10,11 @@ I’m a master's student in **Civil Engineering** at **The University of Texas a
 My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe Civil Systems (Construction, Transportation).
 
 ---
+
 ## 🎓 Education
-- **M.S. in Civil Engineering** — The University of Texas at Austin, Texas, USA
+- **M.S. in Civil Engineering** — The University of Texas at Austin, Texas, USA  
   *Expected Graduation: May 2026*  
-- **B.S. in Architectural Engineering (Minor in Mechanical Engineering)** — Hanyang University, Seoul, Korea
+- **B.S. in Architectural Engineering (Minor in Mechanical Engineering)** — Hanyang University, Seoul, Korea  
 
 ---
 
@@ -28,7 +30,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **Weekly Traffic Flow Prediction** — Time-series forecasting using SARIMA models.  
 - **Bayesian Spatial Analysis of Bike-Share Data** — Statistical modeling of shared mobility usage patterns.  
 
-[View more projects →](./projects.md)
+[View more projects →](./projects/)
 
 ---
 
