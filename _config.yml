@@ -44,5 +44,19 @@ locale: "en-US"
 timezone: "America/Chicago"
 theme_skin: "default"
 
+nav:
+  - title: "Home"
+    url: /
+  - title: "News"
+    url: /news/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research Experiences"
+    url: /research_experiences/ 
+  - title: "Project Experiences"
+    url: /project_experiences/
+  - title: "Honors & Awards"
+    url: /honors_awards/
+    
 include:
   - assets
