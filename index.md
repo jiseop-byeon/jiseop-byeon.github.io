@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: single
 author_profile: true
+sidebar:
+  nav: "main"
 title: "Home"
 ---
 
