@@ -1,24 +1,45 @@
-theme: jekyll-theme-minimal
-title: Jiseop Byeon
+title: "Jiseop Byeon"
 email: jsbyeon@utexas.edu
-description: Personal homepage to share my research and project updates in Civil Engineering and AI.
-author: Jiseop Byeon
-baseurl: ""
+description: "Research and project updates in Civil Engineering leveraging AR and Robotics."
 url: "https://jiseop-byeon.github.io"
+baseurl: "" # leave empty for user.github.io sites
+repository: "jiseop-byeon/jiseop-byeon.github.io"
 
-# Social Profiles
-linkedin_username: jiseop-byeon
-github_username: jiseop-byeon
-instagram_username: jiseop.byeon
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-paginate: 5
-paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# Author info
+author:
+  name: "Jiseop Byeon"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Graduate student in Civil Engineering at UT Austin. Researching AR, Sensors, and Robotics for smart civil systems."
+  location: "Austin, TX"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:jsbyeon@utexas.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/jiseop-byeon"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/jiseop-byeon-887086208/"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/jiseop.byeon"
+
+# Extras
+locale: "en-US"
+timezone: "America/Chicago"
+theme_skin: "default"
