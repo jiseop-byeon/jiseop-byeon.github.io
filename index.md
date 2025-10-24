@@ -3,20 +3,23 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I’m **Jiseop Byeon**
+# 👋 Hi there, my name is **Jiseop Byeon**
 
-I’m a graduate student in **Civil and Environmental Engineering** at **The University of Texas at Austin**.  
-My research focuses on **AI-driven civil systems**, **robotics**, and **augmented reality (AR) and Construction Automation** applications for smart and safe cities.
+I’m a graduate student in **Civil Engineering** at **The University of Texas at Austin**.  
+My research focuses on **( )** applications for smart and safe construction and transportation systems.
+
+---
+## 🎓 Education
+- **M.S. in Civil Engineering (Sustainable Systems)** — The University of Texas at Austin, Austin, United States of America
+  *Expected Graduation: May 2026*  
+- **B.S. in Architectural Engineering (Minor in Mechanical Engineering)** — Hanyang University, Seoul, Republic of Korea
 
 ---
 
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
   A real-time AR system integrating LiDAR and wearable sensors to improve pedestrian and driver safety.  
-  *(in collaboration with the MASS Lab and Honda Research Institute)*
-
-- **Multi-headset AR Calibration System**  
-  Developing real-time spatial alignment between multiple AR users for collaborative perception and planning.
+  *(in collaboration with Honda Research Institute)*
 
 ---
 
@@ -29,14 +32,7 @@ My research focuses on **AI-driven civil systems**, **robotics**, and **augmente
 
 ---
 
-## 🎓 Education
-- **M.S. in Civil Engineering (Sustainable Systems)** — UT Austin  
-  *Expected Graduation: May 2026*  
-- **B.S. in Civil Engineering** — Hanyang University, Seoul
-
----
-
 ## 📬 Contact
 - **Email:** [jsbyeon@utexas.edu](mailto:jsbyeon@utexas.edu)  
-- **LinkedIn:** [linkedin.com/in/jiseop-byeon](https://linkedin.com/in/jiseop-byeon)  
+- **LinkedIn:** [linkedin.com/in/jiseop-byeon](https://www.linkedin.com/in/jiseop-byeon-887086208/)  
 - **GitHub:** [github.com/jiseop-byeon](https://github.com/jiseop-byeon)
