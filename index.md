@@ -4,9 +4,11 @@ author_profile: true
 title: "Home"
 ---
 
-# 👋 Hi there, I'm **Jiseop Byeon**
+# 👋 Hi there
 
-I’m a master's student in **Civil Engineering** at **The University of Texas at Austin**.  
+## My name is **Jiseop Byeon**!
+
+I’m a 2nd-year master's student of [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) at [The University of Texas at Austin](https://www.utexas.edu/) under the supervision of [Dr. Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel) with [Maseeh Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu/).
 My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe Civil Systems (Construction, Transportation).
 
 ---
@@ -15,7 +17,6 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **M.S. in Civil Engineering** — The University of Texas at Austin, Texas, USA  
   *Expected Graduation: May 2026*  
 - **B.S. in Architectural Engineering** — Hanyang University, Seoul, Korea  
-  Minor in Mechanical Engineering
 
 ---
 
