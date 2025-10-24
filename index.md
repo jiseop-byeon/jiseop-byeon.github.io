@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi there, my name is **Jiseop Byeon**
+# 👋 Hi there, I'm **Jiseop Byeon**
 
 I’m a graduate student in **Civil Engineering** at **The University of Texas at Austin**.  
-My research focuses on **( )** applications for smart and safe construction and transportation systems.
+My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe Civil Systems (Construction, Transportation).
 
 ---
 ## 🎓 Education
-- **M.S. in Civil Engineering (Sustainable Systems)** — The University of Texas at Austin, Austin, United States of America
+- **M.S. in Civil Engineering** — The University of Texas at Austin, Austin, Texas
   *Expected Graduation: May 2026*  
 - **B.S. in Architectural Engineering (Minor in Mechanical Engineering)** — Hanyang University, Seoul, Republic of Korea
 
