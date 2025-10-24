@@ -1,3 +1,24 @@
 theme: jekyll-theme-minimal
-title: Jiseop's homepage
-description: Make my own homepage to upload my project updates
+title: Jiseop Byeon
+email: jsbyeon@utexas.edu
+description: Personal homepage to share my research and project updates in Civil Engineering and AI.
+author: Jiseop Byeon
+baseurl: ""
+url: "https://jiseop-byeon.github.io"
+
+# Social Profiles
+linkedin_username: jiseop-byeon
+github_username: jiseop-byeon
+instagram_username: jiseop.byeon
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+paginate: 5
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
