@@ -57,6 +57,10 @@ nav:
     url: /project_experiences/
   - title: "Honors & Awards"
     url: /honors_awards/
-    
+header:
+  nav: false      # 상단(가로) 메뉴 끄기
+sidebar:
+  nav: true       # 왼쪽(세로) 메뉴 켜기
+
 include:
   - assets
