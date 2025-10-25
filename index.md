@@ -1,11 +1,10 @@
 ---
 layout: single
+title: "About me"
 author_profile: true
 toc: true
 toc_sticky: true  
 ---
-
-# About me
 
 ## 🌱 Bio
 Hi there 👋, My name is **Jiseop Byeon**!
