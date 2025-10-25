@@ -8,10 +8,8 @@ toc_sticky: true
 
 # About me
 
-## Bio
-### 👋 Hi there
-### My name is **Jiseop Byeon**!
-
+## 🌱 Bio
+Hi there 👋, My name is **Jiseop Byeon**!
 I’m a 2nd-year master's student of [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) at [The University of Texas at Austin](https://www.utexas.edu/) under the supervision of [Dr. Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel) with [Maseeh Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu/).
 My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe Civil Systems (Construction, Transportation).
 
