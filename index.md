@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Home"
 author_profile: true
 toc: true
 toc_sticky: true  
