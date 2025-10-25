@@ -1,20 +1,62 @@
+/* Global text settings */
 body {
-  font-size: 15px;   
-  line-height: 1.6;
+  font-size: 15.5px;            /* Slightly larger for readability */
+  line-height: 1.7;             /* Add breathing space between lines */
+  color: #222;                  /* Softer black for smoother contrast */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fff;       /* Clean white background */
+}
+
+/* Heading styles */
+h1, h2, h3 {
+  font-weight: 600;             /* Improve heading visibility */
+  color: #111;                  /* Slightly darker tone */
+  line-height: 1.3;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
 }
 
 h1 {
-  font-size: 24px;   
+  font-size: 26px;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 21px;
+  border-left: 4px solid #6A0DAD;  /* Purple accent line on the left */
+  padding-left: 8px;               /* Space between text and line */
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 17px;
+  color: #333;
 }
 
+/* Link styles */
 a {
-  font-size: 15px;
+  color: #4B0082;               /* Deep indigo color for links */
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6A0DAD;               /* Brighter purple on hover */
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #551A8B;               /* Keep purple tone for visited links */
+}
+
+/* Spacing for lists */
+ul, ol {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  padding-left: 1.2em;
+}
+
+/* Divider line style */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2em 0;
 }
