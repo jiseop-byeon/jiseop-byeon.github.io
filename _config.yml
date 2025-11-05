@@ -23,7 +23,7 @@ paginate_path: "/page:num/"
 author:
   name: "Jiseop Byeon"
   avatar: "/assets/images/profile.jpg"
-  bio: "Master's student in Civil Engineering at UT Austin. Researching AR, Sensors, and Robotics applications for smart and safe civil systems."
+  bio: "Master's student in Civil Engineering at UT Austin, researching AR, Sensors, and Robotics applications for smart and safe civil systems."
   location: "Austin, TX"
   links:
     - label: "Email"
