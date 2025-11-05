@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About me"
+title: "About Me"
 author_profile: true
 toc: true
 toc_sticky: true  
@@ -8,8 +8,8 @@ toc_sticky: true
 
 ## 🌱 Bio
 Hi there 👋, My name is **Jiseop Byeon**!
-I’m a 2nd-year master's student of [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) at [The University of Texas at Austin](https://www.utexas.edu/) under the supervision of [Dr. Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel) with [Maseeh Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu/).
-My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe Civil Systems (Construction, Transportation).
+I’m a 2nd-year master's student in [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) at [The University of Texas at Austin](https://www.utexas.edu/) under the supervision of [Dr. Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel) in the [Maseeh Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu/).
+My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe civil systems (construction and transportation).
 
 ---
 
@@ -23,7 +23,10 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
   A real-time AR system integrating LiDAR and wearable sensors to improve pedestrian and driver safety.  
-  *(in collaboration with Honda Research Institute)*
+  *(In collaboration with Honda Research Institute)*
+
+[View more Research →](./research/)
+
 
 ---
 
