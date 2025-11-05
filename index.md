@@ -29,10 +29,6 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
     <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
     <figcaption>ARCAS Concept Diagram</figcaption>
   </figure>
-  <figure style="text-align:center; width:45%;">
-    <img src="/assets/images/research_arcas_system_framework.png" alt="System framework" style="width:100%; border-radius:8px;">
-    <figcaption>System Framework</figcaption>
-  </figure>
 </div>
 
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
