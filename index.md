@@ -22,7 +22,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   *Minor: Mechanical Engineering*  
   *Exchange Student: University of Michigan — Civil & Environmental Engineering*  
   📆 Aug. 2021 ~ Dec. 2021  
-  *Military Service: Republic of Korea Air Force  
+  *Military Service: Republic of Korea Air Force*  
   📆 Apr. 2019 ~ Feb. 2021  
 
 ---
