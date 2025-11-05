@@ -35,7 +35,15 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   *(In collaboration with Honda Research Institute)*
 
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
-  Sept. 2025 ~ Present  
+  Sept. 2025 ~ Present
+
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:45%;">
+    <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
+    <figcaption>ARCAS Concept Diagram</figcaption>
+  </figure>
+  
+</div>
   An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
 
 [View more research details →](./research/)
