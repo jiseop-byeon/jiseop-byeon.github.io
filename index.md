@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## 🌱 Bio
-Hi there 👋, My name is **Jiseop Byeon**!
+Hi there 👋 My name is **Jiseop Byeon**!
 I’m a 2nd-year master's student in [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) at [The University of Texas at Austin](https://www.utexas.edu/) under the supervision of [Dr. Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel) in the [Maseeh Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu/).
 My research focuses on **Augmented Reality, Sensors, and Robotics** applications for smart and safe civil systems (construction and transportation).
 
@@ -18,6 +18,22 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   *Expected Graduation: May 2026*  
 - **B.S. in Architectural Engineering** — Hanyang University, Seoul, Korea  
 
+---
+
+## 🤖 Skills
+- **Languages:** Python, C++, C#, MATLAB, R  
+- **Libraries / Frameworks:** NumPy, Pandas, PyTorch, Matplotlib, Seaborn, OpenCV  
+- **Design / Tools:** Unity, AutoCAD, SketchUp, Rhinoceros 3D / Git, LaTeX  
+
+---
+
+## 🏅 Honors and Awards
+- **U.S.-Korea Fulbright Presidential STEM Initiative Award** — *Fall 2024 – Spring 2026*  
+- **Graduate Dean’s Prestigious Supplement Fellowship** — *Fall 2025*  
+- **George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship** — *Fall 2024, Spring 2025*  
+- **Corporate-sponsored Scholarship, Duckshin EPC Co., Ltd** — *Spring 2023*  
+- **Merit-based Scholarship, Hanyang University** — *Spring 2019, Fall 2021, Fall 2022*
+  
 ---
 
 ## 🔬 Current Research
