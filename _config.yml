@@ -46,3 +46,4 @@ theme_skin: "default"
 
 include:
   - assets
+  - _pages
