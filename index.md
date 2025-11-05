@@ -23,7 +23,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ## 🤖 Skills
 - **Languages:** Python, C++, C#, MATLAB, R  
 - **Libraries / Frameworks:** NumPy, Pandas, PyTorch, Matplotlib, Seaborn, OpenCV  
-- **Design / Tools:** Unity, AutoCAD, SketchUp, Rhinoceros 3D / Git, LaTeX  
+- **Design / Tools:** Unity, AutoCAD, Revit, SketchUp, Rhinoceros 3D / Git, LaTeX  
 
 ---
 
