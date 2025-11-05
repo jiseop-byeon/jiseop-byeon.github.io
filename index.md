@@ -17,13 +17,13 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **M.S. in Civil Engineering** — The University of Texas at Austin, Austin, Texas  
   📆 Aug. 2024 ~ May. 2026 [expected]  
 - **B.S. in Architectural Engineering** — Hanyang University, Seoul, Korea  
-  📆 Mar. 2018 ~ Feb. 2024  
-  *Degree Honors: Summa Cum Laude*  
-  *Minor: Mechanical Engineering*  
-  *Exchange Student: University of Michigan — Civil & Environmental Engineering*  
-  📆 Aug. 2021 ~ Dec. 2021  
-  *Military Service: Republic of Korea Air Force*  
-  📆 Apr. 2019 ~ Feb. 2021  
+  📆 Mar. 2018 - Feb. 2024  
+  Degree Honors: Summa Cum Laude  
+  Minor: Mechanical Engineering  
+  Exchange Student: University of Michigan — Civil & Environmental Engineering  
+  📆 Aug. 2021 - Dec. 2021  
+  Military Service: Republic of Korea Air Force  
+  📆 Apr. 2019 - Feb. 2021  
 
 ---
 
@@ -45,7 +45,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
-  📆 Jan. 2025 ~ Present  
+  📆 Jan. 2025 - Present  
   *(In collaboration with Honda Research Institute)*
   
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
@@ -58,7 +58,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
 
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
-  📆 Sept. 2025 ~ Present
+  📆 Sept. 2025 - Present
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
@@ -76,19 +76,19 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 📂 Recent Projects
 - **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
-  📆 Jan. 2025 ~ Apr. 2025  
+  📆 Jan. 2025 - Apr. 2025  
   Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
 
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
-  📆 Aug. 2024 ~ Dec. 2024  
+  📆 Aug. 2024 - Dec. 2024  
   Time-series forecasting of urban traffic flow using SARIMA models for short-term congestion prediction.  
 
 - **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
-  📆 Sept. 2022 ~ Dec. 2022  
+  📆 Sept. 2022 - Dec. 2022  
   Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.  
 
 - **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
-  📆 Mar. 2022 ~ Jun. 2022  
+  📆 Mar. 2022 - Jun. 2022  
   Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
 
 
