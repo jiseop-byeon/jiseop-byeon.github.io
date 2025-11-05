@@ -22,7 +22,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
-  Jan. 2025 ~ Present  
+  📆 Jan. 2025 ~ Present  
   *(In collaboration with Honda Research Institute)*
   
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
@@ -35,7 +35,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
 
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
-  Sept. 2025 ~ Present
+  📆 Sept. 2025 ~ Present
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
@@ -53,23 +53,47 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 📂 Recent Projects
 - **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
-  Jan. 2025 ~ Apr. 2025  
+  📆 Jan. 2025 ~ Apr. 2025  
   Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
 
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
-  Aug. 2024 ~ Dec. 2024  
+  📆 Aug. 2024 ~ Dec. 2024  
   Time-series forecasting of urban traffic flow using SARIMA models for short-term congestion prediction.  
 
 - **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
-  Sept. 2022 ~ Dec. 2022  
+  📆 Sept. 2022 ~ Dec. 2022  
   Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.  
 
 - **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
-  Mar. 2022 ~ Jun. 2022  
+  📆 Mar. 2022 ~ Jun. 2022  
   Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
 
 
 [View more projects details →](./projects/)
+
+---
+
+## 💻 Online Courses and Certification
+- **Algorithm Specialization** — *Coursera · Stanford University*  
+📆 Apr. 2025 – Jul. 2025  
+- Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming  
+- Graph Search, Shortest Paths, and Data Structures  
+- Divide and Conquer, Sorting and Searching, and Randomized Algorithms  
+
+- **Accelerated Computer Science Fundamentals Specialization** — *Coursera · University of Illinois Urbana-Champaign (UIUC)*  
+📆 Dec. 2024 – Feb. 2025  
+- Unordered Data Structures  
+- Ordered Data Structures  
+- Object-Oriented Data Structures in C++  
+
+- **Introduction to Git and GitHub** — *Google Career Certificates*  
+📆 Nov. 2024  
+
+- **Mathematics for Machine Learning and Data Science Specialization** — *DeepLearning.AI*  
+📆 Sep. 2024 – Oct. 2024  
+- Linear Algebra for Machine Learning and Data Science  
+- Calculus for Machine Learning and Data Science  
+- Probability & Statistics for Machine Learning & Data Science
 
 ---
 
