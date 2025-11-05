@@ -21,13 +21,13 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ---
 
 ## 🔬 Current Research
-- **ARCAS: Augmented Reality Collision Avoidance System**
-  01.13.2025 ~ Present
+- **ARCAS: Augmented Reality Collision Avoidance System**  
+  01.13.2025 ~ Present  
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
   *(In collaboration with Honda Research Institute)*
 
-- **Augmented Mobile Robots with Shared Perception in Uncertain Environments**
-  09.24.2025 ~ Present
+- **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
+  09.24.2025 ~ Present  
   An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
 
 [View more research details →](./research/)
@@ -37,15 +37,19 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 📂 Recent Projects
 - **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
+  01.13.2025 ~ 04.28.2025
   Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
 
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
+  08.26.2024 ~ 12.09.2024  
   Time-series forecasting of urban traffic flow using SARIMA models for short-term congestion prediction.  
 
 - **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
+  09.01.2022 ~ 12.21.2022  
   Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.  
 
 - **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
+  03.02.2022 ~ 06.21.2022  
   Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
 
 
