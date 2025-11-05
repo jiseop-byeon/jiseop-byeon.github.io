@@ -21,21 +21,35 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ---
 
 ## 🔬 Current Research
-- **ARCAS: Augmented Reality Collision Avoidance System**  
-  A real-time AR system integrating LiDAR and wearable sensors to improve pedestrian and driver safety.  
+- **ARCAS: Augmented Reality Collision Avoidance System**
+  01.13.2025 ~ Present
+  A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
   *(In collaboration with Honda Research Institute)*
 
-[View more Research →](./research/)
+- **Augmented Mobile Robots with Shared Perception in Uncertain Environments**
+  09.24.2025 ~ Present
+  An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
+
+[View more research details →](./research/)
 
 
 ---
 
 ## 📂 Recent Projects
-- **Optimal E-Scooter Rebalancing Strategy** — Reinforcement Learning approach for urban mobility optimization.  
-- **Weekly Traffic Flow Prediction** — Time-series forecasting using SARIMA models.  
-- **Bayesian Spatial Analysis of Bike-Share Data** — Statistical modeling of shared mobility usage patterns.  
+- **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
+  Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
 
-[View more projects →](./projects/)
+- **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
+  Time-series forecasting of urban traffic flow using SARIMA models for short-term congestion prediction.  
+
+- **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
+  Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.  
+
+- **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
+  Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
+
+
+[View more projects details →](./projects/)
 
 ---
 
