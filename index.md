@@ -37,10 +37,10 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
   Sept. 2025 ~ Present
 
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
     <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
-    <figcaption>Hardware and Perception Modules of the AR-Robot System</figcaption>
+    <figcaption>System Overview of the AR-Robot Platform</figcaption>
   </figure>
 </div>
 
