@@ -74,22 +74,26 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ---
 
 ## 💻 Online Courses and Certification
-- **Algorithm Specialization** — *Coursera · Stanford University*  
+- **Algorithm Specialization**
+  *Coursera · Stanford University*  
 📆 Apr. 2025 – Jul. 2025  
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/verify/41HZ44MKGXU1)  
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/verify/HML2P9M0O2E5)  
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/verify/T2I7A4DUT687)  
 
-- **[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/IKEIKBZDRN0E)** — *Coursera · University of Illinois Urbana-Champaign (UIUC)*  
+- **[Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/IKEIKBZDRN0E)**
+  *Coursera · University of Illinois Urbana-Champaign (UIUC)*  
 📆 Dec. 2024 – Feb. 2025  
-[Unordered Data Structures](https://www.coursera.org/account/accomplishments/verify/GT6Z0GSEV8C3)  
+[Unordered Data Structures](https://www.coursera.org/account/accomplishments/verify/QHK0JJ7AN370))  
 [Ordered Data Structures](https://www.coursera.org/account/accomplishments/verify/FIFV72RHMBFL)  
-[Object-Oriented Data Structures in C++](https://www.coursera.org/account/accomplishments/verify/QHK0JJ7AN370)  
+[Object-Oriented Data Structures in C++](https://www.coursera.org/account/accomplishments/verify/GT6Z0GSEV8C3)  
 
-- **[Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/A35XRX2GK2F2)** — *Google Career Certificates*  
+- **[Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/A35XRX2GK2F2)**
+  *Google Career Certificates*  
 📆 Nov. 2024  
 
-- **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/V69VVTJ2AL25)** — *DeepLearning.AI*  
+- **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/V69VVTJ2AL25)**
+  *DeepLearning.AI*  
 📆 Sep. 2024 – Oct. 2024  
 [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/F4D3HH4NPHOC)  
 [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/KKH6W0ZSUONA)  
