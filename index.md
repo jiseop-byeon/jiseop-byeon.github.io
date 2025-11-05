@@ -22,7 +22,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
-  Jan. 2025 ~ Present
+  Jan. 2025 ~ Present  
   *(In collaboration with Honda Research Institute)*
   
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
