@@ -23,6 +23,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
   Jan. 2025 ~ Present
+  *(In collaboration with Honda Research Institute)*
   
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
@@ -32,7 +33,6 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 </div>
 
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
-  *(In collaboration with Honda Research Institute)*
 
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
   Sept. 2025 ~ Present
@@ -40,10 +40,10 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
     <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
-    <figcaption>ARCAS Concept Diagram</figcaption>
+    <figcaption>Hardware and Perception Modules of the AR-Robot System</figcaption>
   </figure>
-  
 </div>
+
   An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
 
 [View more research details →](./research/)
