@@ -19,7 +19,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **B.S. in Architectural Engineering** — Hanyang University, Seoul, Korea  
   *Degree Honors: Summa Cum Laude*  
   *Minor: Mechanical Engineering*  
-  *Exchange Student: Civil and Environmental Engineering at the University of Michigan (Fall 2021)*  
+  *Exchange Student: University of Michigan — Civil & Environmental Engineering (Fall 2021)*  
 
 ---
 
