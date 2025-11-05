@@ -23,11 +23,18 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 ## 🔬 Current Research
 - **ARCAS: Augmented Reality Collision Avoidance System**  
   Jan. 2025 ~ Present
-  | ![ARCAS](/assets/images/research_arcas_main.png) | ![Shared Perception](/assets/images/research_arcas_system_framework.png) |
-|:--------------------------------------:|:-----------------------------------------------------------:|
-| ARCAS concept_diagram | system_framework |
+  
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:45%;">
+    <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
+    <figcaption>ARCAS Concept Diagram</figcaption>
+  </figure>
+  <figure style="text-align:center; width:45%;">
+    <img src="/assets/images/research_arcas_system_framework.png" alt="System framework" style="width:100%; border-radius:8px;">
+    <figcaption>System Framework</figcaption>
+  </figure>
+</div>
 
-  ![ARCAS prototype](/assets/images/research_arcas_main.png)  
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
   *(In collaboration with Honda Research Institute)*
 
