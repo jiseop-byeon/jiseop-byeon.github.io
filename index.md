@@ -37,7 +37,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 ## 📂 Recent Projects
 - **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
-  01.13.2025 ~ 04.28.2025
+  01.13.2025 ~ 04.28.2025  
   Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
 
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
