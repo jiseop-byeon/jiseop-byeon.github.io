@@ -55,7 +55,9 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
+  **Summary:** A real-time AR system that integrates 2D LiDAR sensing with wearable interfaces to enhance spatial awareness and prevent collisions between pedestrians and vehicles.
+  **Keywords:** Traffic Safety, Real-Time Sensing, Wearable Augmented Reality (AR), Human–Vehicle Interaction  
+  **Tools:** [Hardware] Meta Quest Pro, 2D LiDAR, Server Laptop | [Software] Unity (C#), C++, Python  
 
 [View more research details →](/research/#arcas)
 
@@ -69,8 +71,10 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
-
+  **Summary:** An AR-assisted robot system that visualizes what robots sense and enables humans to interact intuitively with them in real-world environments.  
+  **Keywords:** Traffic Safety, Real-Time Sensing, Wearable Augmented Reality (AR), Human–Vehicle Interaction  
+  **Tools:** [Hardware] Clearpath Husky A300 UGV, 3D LiDAR, Depth Cameras, Meta Quest Pro, Server Laptop |  Unity (C#), ROS, Python  
+  
 [View more research details →](./research/#hrc)
 
 
