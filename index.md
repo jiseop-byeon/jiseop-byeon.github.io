@@ -57,6 +57,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
   A real-time AR system integrating 2D LiDAR and wearable sensors to improve pedestrian and driver safety.  
 
+[View more research details →](/research/#arcas)
+
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
   📆 Sept. 2025 - Present
 
@@ -69,7 +71,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
   An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
 
-[View more research details →](./research/)
+[View more research details →](./research/#hrc)
 
 
 ---
