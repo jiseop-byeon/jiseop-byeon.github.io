@@ -55,7 +55,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  **Summary:** A real-time AR system that integrates 2D LiDAR sensing with wearable interfaces to enhance spatial awareness and prevent collisions between pedestrians and vehicles.  
+  **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 2D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
   
   **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
   
@@ -77,7 +77,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  **Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
+  **Summary:** This project develops a human–robot collaboration framework that combines augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments. The system enables mobile robots to visualize their surroundings—including obstacles, trajectories, and changes—through real-time AR interfaces, while interpreting human intent from gaze, gestures, and motion cues. By synchronizing AR headsets with robot perception data and creating an adaptive digital twin of the environment, the framework enhances transparency, situational awareness, and trust between humans and autonomous systems.  
   
   **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
   
