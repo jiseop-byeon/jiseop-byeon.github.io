@@ -48,11 +48,14 @@ permalink: /research/
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
   <strong>ARCAS Development Phases</strong><br>
-  (1) <b>AR Headset–LiDAR Integration</b> — Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
+  (1) <b>AR Headset–LiDAR Integration</b><br>
+  Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
   📆 Jan. 2025 - Apr. 2025<br>
-  (2) <b>Multi-User Shared Perception</b> — Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
+  (2) <b>Multi-User Shared Perception</b><br>
+  Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
   📆 Apr. 2025 - Aug. 2025<br>
-  (3) <b>In-Vehicle AR User</b> — Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>
+  (3) <b>In-Vehicle AR User</b><br>
+  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>
   📆 Sept. 2025 - Current
 </div>  
   
