@@ -59,10 +59,10 @@ Refine the model with multimodal likelihoods to capture heterogeneous riding beh
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <figure style="text-align:center; width:80%; margin:0;">
-    <img src="/assets/images/project_sarima_NBprediction.png" 
+    <img src="/assets/images/project_sarima_SBout_prediction.png" 
          alt="Traffic trend visualization"
          style="width:100%; height:auto; border-radius:8px;">
-    <figcaption>SARIMA Prediction for Northbound-In Direction at the Menchaca Intersection (1st Week of October).</figcaption>
+    <figcaption>SARIMA Prediction for Southbound-Out Direction at the Menchaca Intersection (1st Week of October).</figcaption>
   </figure>
 </div>
   
