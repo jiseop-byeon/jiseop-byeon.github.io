@@ -104,7 +104,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  **Summary:** Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
+  **Summary:** This project applies Bayesian hierarchical modeling to predict average cyclist speeds in Austin’s MetroBike network. Using two City of Austin datasets — MetroBike Trips and MetroBike Kiosk Locations — the study integrates spatial coordinates of checkout and return kiosks to generate a continuous “speed map” across the city. By identifying high and low average speed zones, the model highlights potentially hazardous or congested routes for cyclists and provides actionable insights for urban mobility planning.  
   **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
   **Tools:**  
   &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
