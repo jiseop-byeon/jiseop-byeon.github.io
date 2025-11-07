@@ -13,7 +13,7 @@ permalink: /research/
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%;">
+  <figure style="text-align:center; width:60%;">
     <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
     <figcaption>ARCAS Concept Diagram</figcaption>
   </figure>
@@ -33,7 +33,7 @@ permalink: /research/
   Most existing external Human–Machine Interfaces (eHMI) focus on vehicle-to-pedestrian communication using displays or projections mounted on the vehicle body. However, these interfaces lack scalability, environmental awareness, and real-time adaptability, especially in dynamic or obstructed urban scenes (Carmona et al., 2021; Colley et al., 2020). As a result, pedestrians outside the direct line of sight or those distracted cannot receive timely safety cues.  
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%;">
+  <figure style="text-align:center; width:60%;">
     <img src="/assets/images/research_arcas_lidar_system_layout_workflow.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
     <figcaption>System layout and visualization workflow.</figcaption>
   </figure>
