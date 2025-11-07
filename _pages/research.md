@@ -85,10 +85,10 @@ permalink: /research/
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
 **Background:**  
-Autonomous mobile robots now operate in campuses, hospitals, and public spaces. Despite strong perception and navigation, they often **fail to communicate internal states, predictions, and intents** to nearby humans in a transparent, cognitively meaningful way—leading to misjudged intent, over-reliance, and reduced trust. AR can visualize what robots “see/plan,” but most prior systems are **one-way** and overlook **two-way communication** and **cognitive factors** (trust, interpretability, situational awareness).  
+Autonomous mobile robots now operate in campuses, hospitals, and public spaces. Despite strong perception and navigation, they often fail to communicate internal states, predictions, and intents to nearby humans in a transparent, cognitively meaningful way—leading to misjudged intent, over-reliance, and reduced trust. AR can visualize what robots “see/plan,” but most prior systems are one-way and overlook **two-way communication** and **cognitive factors** (trust, interpretability, situational awareness).  
 
 **Problem:**  
-We need a **bi-directional channel** where robots understand human intent (gaze, gestures, motion patterns) and humans intuitively grasp robot reasoning and environmental understanding. Bridging this gap demands an **interdisciplinary, shared-perception** architecture that fuses robotics/AI, AR visualization, and cognitive psychology.  
+We need a bi-directional channel where robots understand human intent (gaze, gestures, motion patterns) and humans intuitively grasp robot reasoning and environmental understanding. Bridging this gap demands an interdisciplinary, shared-perception architecture that fuses robotics/AI, AR visualization, and cognitive psychology.  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius:10px;">
   <iframe src="[https://www.youtube.com/watch?v=pUWPkGKrnt0](https://www.youtube.com/embed/pUWPkGKrnt0)" 
