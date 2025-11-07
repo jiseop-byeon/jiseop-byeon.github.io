@@ -69,3 +69,47 @@ permalink: /research/
 ### <a id="hrc"></a>Augmented Mobile Robots with Shared Perception in Uncertain Environments
 An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
 
+**Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
+**Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
+**Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop  
+**Software:** Unity (C#), Python, ROS, Large Language Models (LLMs via LoRA), Real-time Digital Twin  
+
+<hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
+
+**Background:**  
+Autonomous mobile robots now operate in campuses, hospitals, and public spaces. Despite strong perception and navigation, they often **fail to communicate internal states, predictions, and intents** to nearby humans in a transparent, cognitively meaningful way—leading to misjudged intent, over-reliance, and reduced trust. AR can visualize what robots “see/plan,” but most prior systems are **one-way** and overlook **two-way communication** and **cognitive factors** (trust, interpretability, situational awareness).  
+
+**Problem:**  
+We need a **bi-directional channel** where robots understand human intent (gaze, gestures, motion patterns) and humans intuitively grasp robot reasoning and environmental understanding. Bridging this gap demands an **interdisciplinary, shared-perception** architecture that fuses robotics/AI, AR visualization, and cognitive psychology.  
+
+**Methodology: Overview**  
+The system enables humans and robots to co-perceive and co-interpret complex scenes through AR devices synchronized with robot sensors, organized into three layers:
+
+1. **Perceptual Layer** — Multi-modal sensing (LiDAR, cameras, IMU) for environment mapping, change detection, and trajectory prediction with AI-based reasoning.  
+2. **Visualization Layer** — Real-time **Digital Twin** in AR renders robot-sensed semantics (obstacles, trajectories, salient changes) and uses LLM-assisted language cues to make insights human-understandable.  
+3. **Cognitive Layer** — Measures human trust, interpretability, and response to adapt robot reasoning and human–robot communication (HRC) strategies.
+
+**Methodology: Detail**
+
+<div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
+  <strong>AMR Development Phases</strong><br>
+  (1) <b>System Integration & Setup →</b><br>
+  Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
+  📆 Jan. 2026 – Mar. 2026<br><br>
+  (2) <b>Field Data Collection & Benchmarking →</b><br>
+  Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
+  📆 Mar. 2026 – Jul. 2026<br><br>
+  (3) <b>AR-Assisted Perception & Cognitive Evaluation →</b><br>
+  Run HRC tasks with LLM-integrated AR; evaluate trust calibration, latency, cognitive load, interpretability (e.g., HEXACO-based analysis).<br>
+  📆 Jul. 2026 – Nov. 2026<br><br>
+  (4) <b>System Refinement & Dissemination →</b><br>
+  Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
+  📆 Nov. 2026 – Jan. 2027
+</div>
+
+**Results (Expected):**
+- **Bi-directional HRC** where robots and humans exchange perceptual and intentional signals in real time.  
+- **Open-source dataset** that couples AR-headset and robot sensors in crowded pedestrian environments.  
+- **Measured gains** in trust calibration, situational awareness, and interpretability across controlled studies.
+
+
