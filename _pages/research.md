@@ -92,7 +92,7 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
 **Methodology: Detail**
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
-  <strong>AMR Development Phases</strong><br>
+  <strong>System Development Phases</strong><br>
   (1) <b>System Integration & Setup</b><br>
   Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
   📆 Jan. 2026 – Mar. 2026<br><br>
