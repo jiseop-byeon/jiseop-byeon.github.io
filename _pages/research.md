@@ -7,7 +7,7 @@ permalink: /research/
 ## 🔬 Current Research
 
 ### <a id="arcas"></a>ARCAS: Augmented Reality Collision Avoidance System
-[Mobile Automation and Sensing Systems (MASS) LabT](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
+[Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
 📆 Jan. 2025 - Present  
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
@@ -39,10 +39,19 @@ permalink: /research/
   </figure>
 </div>
   
-  **Methodology:**   
+  **Methodology: Overview**   
   To address this, ARCAS introduces a wearable Augmented Reality system that integrates 2D LiDAR sensors and AR headsets (Meta Quest Pro) for real-time environment perception and visualization. The roadside LiDAR detects surrounding vehicles and pedestrians, while the server PC processes point clouds, performs object tracking, and transmits positional data to the headset.  
 
   In the headset, a custom Unity (C#) client overlays 3D bounding boxes, positional markers, and motion cues in the user’s field of view, effectively extending situational awareness beyond the physical line of sight. The data synchronization between LiDAR and headset is handled through a Python-based TCP communication module, ensuring low-latency, frame-aligned visualization.  
+
+  **Methodology: Detail**  
+
+<div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
+  <strong>ARCAS Development Phases</strong><br>
+  (1) <b>AR Headset–LiDAR Integration</b> — Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
+  (2) <b>Multi-User Shared Perception</b> — Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
+  (3) <b>In-Vehicle AR User</b> — Extending collision visualization to drivers inside vehicles for cross-scenario awareness.
+</div>  
   
   **Results:**  
 
