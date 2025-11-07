@@ -131,19 +131,16 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
 **Methodology: Detail**
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
-  <strong>System Development Phases</strong><br>
-  (1) <b>System Integration & Setup</b><br>
-  Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
-  📆 Sept. 2025 – Current<br>
-  (2) <b>Field Data Collection & Benchmarking</b><br>
-  Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
-  📆 TBD <br>
-  (3) <b>AR-Assisted Perception & Cognitive Evaluation</b><br>
-  Run HRC tasks with LLM-integrated AR; evaluate trust calibration, latency, cognitive load, interpretability (e.g., HEXACO-based analysis).<br>
-  📆 TBD <br>
-  (4) <b>System Refinement & Dissemination</b><br>
-  Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
-  📆 TBD
+  <strong>ARCAS Development Phases</strong><br>
+  <h4 id="arcas-phase1">(1) AR Headset–LiDAR Integration →</h4>
+  Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
+  📆 Jan. 2025 - Apr. 2025<br>
+  <h4 id="arcas-phase2">(2) Multi-User Shared Perception →</h4>
+  Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
+  📆 May 2025 - Aug. 2025<br>
+  <h4 id="arcas-phase3">(3) In-Vehicle AR User →</h4>
+  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>
+  📆 Sept. 2025 - Current
 </div>
 
 **Results (Expected):**
