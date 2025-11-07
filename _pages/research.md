@@ -51,23 +51,20 @@ permalink: /research/
 
   **Methodology: Detail**  
 
-<div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
+<div style="border:1px solid #ddd; background:#fafafa; padding:12px 14px; border-radius:10px; margin:10px 0; line-height:1.3;">
   <strong>ARCAS Development Phases</strong>
-  <h4 id="arcas-phase1">
-    <a href="/arcas_phase1/" style="text-decoration:none;">(1) AR Headset–LiDAR Integration →</a>
+  <h4 id="arcas-phase1" style="margin:4px 0;">
+    <a href="/arcas_phase1/" style="text-decoration:none; color:inherit;">(1) AR Headset–LiDAR Integration →</a>
   </h4>
-  Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
-  📆 Jan. 2025 - Apr. 2025
-  <h4 id="arcas-phase2">
-    <a href="/arcas_phase2/" style="text-decoration:none;">(2) Multi-User Shared Perception →</a>
+  Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>📆 Jan. 2025 - Apr. 2025
+  <h4 id="arcas-phase2" style="margin:6px 0 0 0;">
+    <a href="/arcas_phase2/" style="text-decoration:none; color:inherit;">(2) Multi-User Shared Perception →</a>
   </h4>
-  Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
-  📆 May 2025 - Aug. 2025
-  <h4 id="arcas-phase3">
-    <a href="/arcas_phase3/" style="text-decoration:none;">(3) In-Vehicle AR User →</a>
+  Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>📆 May. 2025 - Aug. 2025
+  <h4 id="arcas-phase3" style="margin:6px 0 0 0;">
+    <a href="/arcas_phase3/" style="text-decoration:none; color:inherit;">(3) In-Vehicle AR User →</a>
   </h4>
-  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>
-  📆 Sept. 2025 - Current
+  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>📆 Sept. 2025 - Current
 </div>
   
   **Results:**  
