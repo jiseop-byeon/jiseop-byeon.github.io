@@ -21,10 +21,10 @@ permalink: /projects/
   </figure>
 
   <figure style="text-align:center; width:80%; margin:0;">
-    <img src="/assets/images/project_bayesian_trace.png" 
+    <img src="/assets/images/project_bayesian_jags.png" 
          alt="Trace and density plots"
          style="width:100%; height:auto; border-radius:8px;">
-    <figcaption>Trace and density plots for one of our covariate coefficients and the τ (precision) variable.</figcaption>
+    <figcaption>Trace plots and density plots for one of our covariate coefficients and our tau variable.</figcaption>
   </figure>
 </div>
 
