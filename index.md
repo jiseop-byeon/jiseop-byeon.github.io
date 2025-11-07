@@ -65,6 +65,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 [View more research details →](/research/#arcas)
 
+---
+
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
   📆 Sept. 2025 - Present
 
@@ -119,6 +121,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
   [View more projects details →](./projects/#bayesian)
 
+---
+
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
   📆 Aug. 2024 - Dec. 2024  
 
@@ -143,11 +147,15 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
   [View more projects details →](./projects/#sarima)
 
+---
+
 - **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
   📆 Sept. 2022 - Dec. 2022  
   Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.
 
   [View more projects details →](./projects/mfc)
+
+---
 
 - **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
   📆 Mar. 2022 - Jun. 2022  
