@@ -121,7 +121,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
     <img src="/assets/images/project_sarima_NBprediction.png" 
          alt="Traffic trend visualization"
          style="width:100%; height:auto; border-radius:8px;">
-    <figcaption>SARIMA Prediction for North Bound In Directions of Menchaca Intersection.</figcaption>
+    <figcaption>SARIMA Prediction for Northbound-In Direction at the Menchaca Intersection (1st Week of October).</figcaption>
   </figure>
 </div>
 
