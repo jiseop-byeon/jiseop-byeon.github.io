@@ -120,13 +120,13 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
   📆 Sept. 2025 – Current<br>
   (2) <b>Field Data Collection & Benchmarking</b><br>
   Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
-  📆 TBA <br>
+  📆 TBD <br>
   (3) <b>AR-Assisted Perception & Cognitive Evaluation</b><br>
   Run HRC tasks with LLM-integrated AR; evaluate trust calibration, latency, cognitive load, interpretability (e.g., HEXACO-based analysis).<br>
-  📆 TBA <br>
+  📆 TBD <br>
   (4) <b>System Refinement & Dissemination</b><br>
   Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
-  📆 TBA
+  📆 TBD
 </div>
 
 **Results (Expected):**
