@@ -144,6 +144,7 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
   (4) <b>System Refinement & Dissemination</b><br>
   Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
   📆 TBD
+</div>
 
 **Results (Expected):**
 - **Bi-directional HRC** where robots and humans exchange perceptual and intentional signals in real time.  
