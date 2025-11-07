@@ -52,7 +52,7 @@ permalink: /research/
   **Methodology: Detail**  
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
-  <strong>ARCAS Development Phases</strong><br>
+  <strong>ARCAS Development Phases</strong>
   <h4 id="arcas-phase1">
     <a href="/arcas_phase1/" style="text-decoration:none;">(1) AR Headset–LiDAR Integration →</a>
   </h4>
