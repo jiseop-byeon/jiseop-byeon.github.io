@@ -107,15 +107,40 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   **Summary:** Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
   **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
   **Tools:**  
-  &nbsp;&nbsp;• **Software:** R, Python  
   &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
 ](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)
+  &nbsp;&nbsp;• **Software:** R, Python  
 
   [View more projects details →](./projects/#bayesian)
 
 - **Weekly Traffic Flow Prediction using SARIMA: A Case Study of the Lamar–Manchaca Intersection in Austin, Texas**  
   📆 Aug. 2024 - Dec. 2024  
-  Time-series forecasting of urban traffic flow using SARIMA models for short-term congestion prediction.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <figure style="text-align:center; width:80%; margin:0;">
+    <img src="/assets/images/project_sarima_trend.png" 
+         alt="Traffic trend visualization"
+         style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Observed and predicted weekly traffic volume trends using SARIMA.</figcaption>
+  </figure>
+
+  <figure style="text-align:center; width:80%; margin:0;">
+    <img src="/assets/images/project_sarima_residuals.png" 
+         alt="Residual analysis"
+         style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Residual diagnostics showing model fit and variance stability across four flow directions.</figcaption>
+  </figure>
+</div>
+
+  **Summary:**  
+  This project analyzes short-term traffic flow patterns at the Lamar–Manchaca intersection in Austin using a Seasonal Autoregressive Integrated Moving Average (SARIMA) model. By applying 15-minute interval radar data from the City of Austin Open Data Portal, the study successfully forecasts one week of traffic volume trends, identifying recurring daily and weekly traffic patterns and peak-hour behaviors.  
+
+  **Keywords:**  
+  Traffic Forecasting, Time-Series Analysis, SARIMA, Urban Mobility, Austin Transportation  
+
+  **Tools:**  
+  &nbsp;&nbsp;• **Dataset:** [Radar Traffic Counts](https://data.austintexas.gov/Transportation-and-Mobility/Wavetronix-Traffic-Sensors/xecs-rpy9/about_data) 
+  &nbsp;&nbsp;• **Software:** Python, Excel
 
   [View more projects details →](./projects/#sarima)
 
