@@ -7,6 +7,10 @@ permalink: /research/
 ## 🔬 Current Research
 
 ### <a id="arcas"></a>ARCAS: Augmented Reality Collision Avoidance System
+[Mobile Automation and Sensing Systems (MASS) LabT](https://www.mass-lab-ut.com/) | The University of Texas at Austin
+📆 Jan. 2025 - Present
+
+<hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%;">
@@ -21,7 +25,6 @@ permalink: /research/
   **Software:** Unity (C#), C++, Python  
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
-<div style="height:20px;"></div>
 
   **Background:**  
   Global road traffic injuries remain one of the leading causes of death, with over 1.3 million fatalities each year (WHO, 2022). In particular, collisions between vehicles and vulnerable road users (VRUs) — such as pedestrians and cyclists — have increased with rising urban density (GHSA, 2024). Although autonomous and connected vehicles are being developed to enhance traffic safety, they often fail to communicate their intentions clearly to surrounding humans, which leads to trust and predictability issues in shared environments (Habibovic et al., 2018; Dey et al., 2020).  
