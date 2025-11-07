@@ -67,7 +67,15 @@ permalink: /research/
   **Results:**  
 
 ### <a id="hrc"></a>Augmented Mobile Robots with Shared Perception in Uncertain Environments
-An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
+[Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
+📆 Sept. 2025 - Present  
+
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:60%;">
+    <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
+    <figcaption>System Overview of the AR-Robot Platform</figcaption>
+  </figure>
+</div>
 
 **Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
 **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
@@ -82,11 +90,19 @@ Autonomous mobile robots now operate in campuses, hospitals, and public spaces. 
 **Problem:**  
 We need a **bi-directional channel** where robots understand human intent (gaze, gestures, motion patterns) and humans intuitively grasp robot reasoning and environmental understanding. Bridging this gap demands an **interdisciplinary, shared-perception** architecture that fuses robotics/AI, AR visualization, and cognitive psychology.  
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius:10px;">
+  <iframe src="https://www.youtube.com/watch?v=pUWPkGKrnt0" 
+  title="AR–Robot Shared Perception Demo" 
+  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" 
+  allowfullscreen></iframe>
+</div>
+<p style="text-align:center;"><em>Demonstration video of the AR–Robot Shared Perception System.</em></p>
+
 **Methodology: Overview**  
 The system enables humans and robots to co-perceive and co-interpret complex scenes through AR devices synchronized with robot sensors, organized into three layers:
 
 1. **Perceptual Layer** — Multi-modal sensing (LiDAR, cameras, IMU) for environment mapping, change detection, and trajectory prediction with AI-based reasoning.  
-2. **Visualization Layer** — Real-time **Digital Twin** in AR renders robot-sensed semantics (obstacles, trajectories, salient changes) and uses LLM-assisted language cues to make insights human-understandable.  
+2. **Visualization Layer** — Real-time Digital Twin in AR renders robot-sensed semantics (obstacles, trajectories, salient changes) and uses LLM-assisted language cues to make insights human-understandable.  
 3. **Cognitive Layer** — Measures human trust, interpretability, and response to adapt robot reasoning and human–robot communication (HRC) strategies.
 
 **Methodology: Detail**
@@ -95,16 +111,16 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
   <strong>System Development Phases</strong><br>
   (1) <b>System Integration & Setup</b><br>
   Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
-  📆 Jan. 2026 – Mar. 2026<br><br>
+  📆 Sept. 2025 – Current<br><br>
   (2) <b>Field Data Collection & Benchmarking</b><br>
   Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
-  📆 Mar. 2026 – Jul. 2026<br><br>
+  📆 TBA <br><br>
   (3) <b>AR-Assisted Perception & Cognitive Evaluation</b><br>
   Run HRC tasks with LLM-integrated AR; evaluate trust calibration, latency, cognitive load, interpretability (e.g., HEXACO-based analysis).<br>
-  📆 Jul. 2026 – Nov. 2026<br><br>
+  📆 TBA <br><br>
   (4) <b>System Refinement & Dissemination</b><br>
   Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
-  📆 Nov. 2026 – Jan. 2027
+  📆 TBA
 </div>
 
 **Results (Expected):**
