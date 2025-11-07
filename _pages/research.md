@@ -21,7 +21,7 @@ permalink: /research/
 
   **Summary:** A real-time AR system that integrates 2D LiDAR sensing with wearable interfaces to enhance spatial awareness and prevent collisions between pedestrians and vehicles.  
   **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
-  **Hardware:** Meta Quest Pro, RPLiDAR C1, Server Laptop  
+  **Hardware:** Meta Quest Pro, RPLiDAR C1, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
   **Software:** Unity (C#), C++, Python  
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
