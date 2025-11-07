@@ -15,6 +15,8 @@ permalink: /research/
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
+**Publication:**   
+
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:60%;">
     <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
