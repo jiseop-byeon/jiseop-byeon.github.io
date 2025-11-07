@@ -93,16 +93,16 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
   <strong>AMR Development Phases</strong><br>
-  (1) <b>System Integration & Setup →</b><br>
+  (1) <b>System Integration & Setup</b><br>
   Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
   📆 Jan. 2026 – Mar. 2026<br><br>
-  (2) <b>Field Data Collection & Benchmarking →</b><br>
+  (2) <b>Field Data Collection & Benchmarking</b><br>
   Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
   📆 Mar. 2026 – Jul. 2026<br><br>
-  (3) <b>AR-Assisted Perception & Cognitive Evaluation →</b><br>
+  (3) <b>AR-Assisted Perception & Cognitive Evaluation</b><br>
   Run HRC tasks with LLM-integrated AR; evaluate trust calibration, latency, cognitive load, interpretability (e.g., HEXACO-based analysis).<br>
   📆 Jul. 2026 – Nov. 2026<br><br>
-  (4) <b>System Refinement & Dissemination →</b><br>
+  (4) <b>System Refinement & Dissemination</b><br>
   Fold cognitive results back into real-time HRC; prepare conference/journal submissions.<br>
   📆 Nov. 2026 – Jan. 2027
 </div>
