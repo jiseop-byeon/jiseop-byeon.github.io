@@ -32,7 +32,7 @@ permalink: /research/
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
   **Background:**  
-  Global road traffic injuries remain one of the leading causes of death, with over 1.3 million fatalities each year (WHO, 2022). In particular, collisions between vehicles and vulnerable road users (VRUs) — such as pedestrians and cyclists — have increased with rising urban density (GHSA, 2024). Although autonomous and connected vehicles are being developed to enhance traffic safety, they often fail to communicate their intentions clearly to surrounding humans, which leads to trust and predictability issues in shared environments (Habibovic et al., 2018; Dey et al., 2020).  
+  Global road traffic injuries remain one of the leading causes of death, with over 1.3 million fatalities each year [1]. In particular, collisions between vehicles and vulnerable road users (VRUs) — such as pedestrians and cyclists — have increased with rising urban density [2]. Although autonomous and connected vehicles are being developed to enhance traffic safety, they often fail to communicate their intentions clearly to surrounding humans, which leads to trust and predictability issues in shared environments [3], [4].
   
   **Problem:**   
   Most existing external Human–Machine Interfaces (eHMI) focus on vehicle-to-pedestrian communication using displays or projections mounted on the vehicle body. However, these interfaces lack scalability, environmental awareness, and real-time adaptability, especially in dynamic or obstructed urban scenes (Carmona et al., 2021; Colley et al., 2020). As a result, pedestrians outside the direct line of sight or those distracted cannot receive timely safety cues.  
@@ -65,6 +65,23 @@ permalink: /research/
 </div>  
   
   **Results:**  
+
+  **Reference:**  
+  [1] World Health Organization, *Global Status Report on Road Safety 2023*, Geneva, Switzerland: WHO, 2023. [Online].  
+  Available: [https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries)  
+  Accessed: Nov. 7, 2025.
+  
+  [2] Governors Highway Safety Association (GHSA), *U.S. Pedestrian Deaths Fall Slightly in First Half of 2023, but Remain Above Pre-Pandemic Levels*, 2024. [Online].  
+  Available: [https://www.ghsa.org/news/us-pedestrian-deaths-fall-slightly-first-half-2023-remain-above-pre-pandemic-levels](https://www.ghsa.org/news/us-pedestrian-deaths-fall-slightly-first-half-2023-remain-above-pre-pandemic-levels)  
+  Accessed: Nov. 7, 2025.
+  
+  [3] A. Habibović, V. M. Lundgren, J. Andersson, M. Klingegård, T. Lagström, A. Sirkka, J. Fagerlönn, C. Edgren, R. Fredriksson, S. Krupenia *et al.*, “Communicating intent of automated vehicles to pedestrians,” *Frontiers in Psychology*, vol. 9, p. 1336, 2018, doi: 10.3389/fpsyg.2018.01336.
+  
+  [4] D. Dey, A. Habibović, A. Löcken, P. Wintersberger, B. Pfleging, A. Riener *et al.*, “Taming the eHMI jungle: A classification taxonomy to guide, compare, and assess the design principles of automated vehicles’ external human–machine interfaces,” *Transportation Research Interdisciplinary Perspectives*, vol. 7, p. 100174, 2020, doi: 10.1016/j.trip.2020.100174.
+  
+  [5] J. Carmona, C. Guindel, F. Garcia, and A. de la Escalera, “eHMI: Review and guidelines for deployment on autonomous vehicles,” *Sensors*, vol. 21, no. 9, p. 2912, 2021, doi: 10.3390/s21092912.
+  
+  [6] M. Colley, M. Walch, and E. Rukzio, “Unveiling the lack of scalability in research on external communication of autonomous vehicles,” in *Proc. Extended Abstracts of the 2020 CHI Conf. on Human Factors in Computing Systems (CHI EA ’20)*, Honolulu, HI, USA, Apr. 2020, pp. 1–9, doi: 10.1145/3334480.3383010.
 
 ---
 
