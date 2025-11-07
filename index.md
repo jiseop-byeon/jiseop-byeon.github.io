@@ -118,17 +118,10 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <figure style="text-align:center; width:80%; margin:0;">
-    <img src="/assets/images/project_sarima_trend.png" 
+    <img src="/assets/images/project_sarima_NBprediction.png" 
          alt="Traffic trend visualization"
          style="width:100%; height:auto; border-radius:8px;">
-    <figcaption>Observed and predicted weekly traffic volume trends using SARIMA.</figcaption>
-  </figure>
-
-  <figure style="text-align:center; width:80%; margin:0;">
-    <img src="/assets/images/project_sarima_residuals.png" 
-         alt="Residual analysis"
-         style="width:100%; height:auto; border-radius:8px;">
-    <figcaption>Residual diagnostics showing model fit and variance stability across four flow directions.</figcaption>
+    <figcaption>SARIMA Prediction for North Bound In Directions of Menchaca Intersection.</figcaption>
   </figure>
 </div>
 
