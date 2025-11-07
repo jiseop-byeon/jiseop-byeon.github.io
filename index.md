@@ -88,24 +88,25 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas**  
   📆 Jan. 2025 - Apr. 2025  
 
-<div style="display: flex; justify-content: center; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%; margin:0;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <figure style="text-align:center; width:80%; margin:0;">
     <img src="/assets/images/project_bayesian_gam.png" 
          alt="GAM map"
-         style="width:100%; height:250px; object-fit:contain; border-radius:8px; background-color:#fafafa;">
+         style="width:100%; height:auto; border-radius:8px;">
     <figcaption>Our GAM’s predicted speed map by checkout location</figcaption>
   </figure>
-  <figure style="text-align:center; width:45%; margin:0;">
+
+  <figure style="text-align:center; width:80%; margin:0;">
     <img src="/assets/images/project_bayesian_jags.png" 
          alt="Trace plots"
-         style="width:100%; height:250px; object-fit:contain; border-radius:8px; background-color:#fafafa;">
+         style="width:100%; height:auto; border-radius:8px;">
     <figcaption>Trace plots and density plots for one of our covariate coefficients and our tau variable</figcaption>
   </figure>
 </div>
 
   **Summary:** Bayesian spatial modeling of bike-share trip speeds to identify hazardous or congested cycling zones in Austin.  
   **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
-  **Tools:** 
+  **Tools:**  
   &nbsp;&nbsp;• **Software:** R, Python  
   &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
 ](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)
