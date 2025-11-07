@@ -64,7 +64,7 @@ permalink: /research/
   <h4 id="arcas-phase3" style="margin:0;">
     <a href="/arcas_phase3/" style="text-decoration:none;">(3) In-Vehicle AR User →</a>
   </h4>
-  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>📆 Sept. 2025 - Current
+  Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>📆 Sept. 2025 - Present
 </div>
   
   **Results:**  
@@ -137,7 +137,7 @@ The system enables humans and robots to co-perceive and co-interpret complex sce
   <strong>System Development Phases</strong><br>
   (1) <b>System Integration & Setup</b><br>
   Mount 360° LiDAR and depth cameras on Husky; align AR Digital Twin; enable headset-to-robot intent cues (IMU/face/hand tracking).<br>
-  📆 Sept. 2025 – Current<br>
+  📆 Sept. 2025 – Present<br>
   (2) <b>Field Data Collection & Benchmarking</b><br>
   Collect synchronized AR↔robot multi-modal data in pedestrian-dense areas; build an open benchmark for HRI and prediction.<br>
   📆 TBD <br>
