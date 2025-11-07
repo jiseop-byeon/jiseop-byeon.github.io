@@ -66,9 +66,13 @@ permalink: /research/
   
   **Results:**  
 
+---
+
 ### <a id="hrc"></a>Augmented Mobile Robots with Shared Perception in Uncertain Environments
 [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
 📆 Sept. 2025 - Present  
+
+<hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <figure style="text-align:center; width:60%;">
