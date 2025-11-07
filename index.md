@@ -91,14 +91,14 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 <div style="display: flex; justify-content: center; gap: 12px; align-items: center; flex-wrap: wrap;">
   <figure style="text-align:center; width:45%; margin:0;">
     <img src="/assets/images/project_bayesian_gam.png" 
-         alt="ARCAS concept" 
-         style="width:100%; height:250px; object-fit:cover; border-radius:8px;">
+         alt="GAM map"
+         style="width:100%; height:250px; object-fit:contain; border-radius:8px; background-color:#fafafa;">
     <figcaption>Our GAM’s predicted speed map by checkout location</figcaption>
   </figure>
   <figure style="text-align:center; width:45%; margin:0;">
     <img src="/assets/images/project_bayesian_jags.png" 
-         alt="System framework" 
-         style="width:100%; height:250px; object-fit:cover; border-radius:8px;">
+         alt="Trace plots"
+         style="width:100%; height:250px; object-fit:contain; border-radius:8px; background-color:#fafafa;">
     <figcaption>Trace plots and density plots for one of our covariate coefficients and our tau variable</figcaption>
   </figure>
 </div>
