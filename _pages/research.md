@@ -9,7 +9,7 @@ permalink: /research/
 
 ## 🔬 Current Research
 
-### <a id="arcas"></a>ARCAS: Augmented Reality Collision Avoidance System
+### <a id="arcas"></a>· ARCAS: Augmented Reality Collision Avoidance System
 [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
 📆 Jan. 2025 - Present  
 
@@ -88,7 +88,7 @@ permalink: /research/
 
 ---
 
-### <a id="hrc"></a>Augmented Mobile Robots with Shared Perception in Uncertain Environments
+### <a id="hrc"></a>· Augmented Mobile Robots with Shared Perception in Uncertain Environments
 [Mobile Automation and Sensing Systems (MASS) Lab](https://www.mass-lab-ut.com/) | The University of Texas at Austin  
 📆 Sept. 2025 - Present  
 
