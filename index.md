@@ -76,7 +76,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   **Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
   **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
   **Tools:**  
-  &nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop  
+  &nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
   &nbsp;&nbsp;• **Software:** Unity (C#), Python, ROS
   
 [View more research details →](./research/#hrc)
@@ -108,7 +108,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
   **Tools:**  
   &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
-](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)
+](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)  
   &nbsp;&nbsp;• **Software:** R, Python  
 
   [View more projects details →](./projects/#bayesian)
@@ -132,7 +132,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   Traffic Forecasting, Time-Series Analysis, SARIMA, Urban Mobility, Austin Transportation  
 
   **Tools:**  
-  &nbsp;&nbsp;• **Dataset:** [Radar Traffic Counts](https://data.austintexas.gov/Transportation-and-Mobility/Wavetronix-Traffic-Sensors/xecs-rpy9/about_data) 
+  &nbsp;&nbsp;• **Dataset:** [Radar Traffic Counts](https://data.austintexas.gov/Transportation-and-Mobility/Wavetronix-Traffic-Sensors/xecs-rpy9/about_data)  
   &nbsp;&nbsp;• **Software:** Python, Excel
 
   [View more projects details →](./projects/#sarima)
