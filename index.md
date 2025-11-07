@@ -56,7 +56,9 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 </div>
 
   **Summary:** A real-time AR system that integrates 2D LiDAR sensing with wearable interfaces to enhance spatial awareness and prevent collisions between pedestrians and vehicles.  
+  
   **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
+  
   **Tools:**  
   &nbsp;&nbsp;• **Hardware:** Meta Quest Pro, RPLiDAR C1, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
   &nbsp;&nbsp;• **Software:** Unity (C#), C++, Python
@@ -74,7 +76,9 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 </div>
 
   **Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
+  
   **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
+  
   **Tools:**  
   &nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
   &nbsp;&nbsp;• **Software:** Unity (C#), Python, ROS
@@ -105,7 +109,9 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 </div>
 
   **Summary:** This project applies Bayesian hierarchical modeling to predict average cyclist speeds in Austin’s MetroBike network. Using two City of Austin datasets — MetroBike Trips and MetroBike Kiosk Locations — the study integrates spatial coordinates of checkout and return kiosks to generate a continuous “speed map” across the city. By identifying high and low average speed zones, the model highlights potentially hazardous or congested routes for cyclists and provides actionable insights for urban mobility planning.  
+  
   **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
+  
   **Tools:**  
   &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
 ](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)  
