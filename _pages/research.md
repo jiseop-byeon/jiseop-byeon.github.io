@@ -7,8 +7,41 @@ permalink: /research/
 ## 🔬 Current Research
 
 ### <a id="arcas"></a>ARCAS: Augmented Reality Collision Avoidance System
-A real-time AR system integrating LiDAR and wearable sensors to improve pedestrian and driver safety.  
-*In collaboration with Honda Research Institute.*
+
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:45%;">
+    <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
+    <figcaption>ARCAS Concept Diagram</figcaption>
+  </figure>
+</div>
+
+  **Summary:** A real-time AR system that integrates 2D LiDAR sensing with wearable interfaces to enhance spatial awareness and prevent collisions between pedestrians and vehicles.  
+  **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
+  **Hardware:** Meta Quest Pro, RPLiDAR C1, Server Laptop  
+  **Software:** Unity (C#), C++, Python  
+
+<hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
+<div style="height:20px;"></div>
+
+  **Background:**  
+  Global road traffic injuries remain one of the leading causes of death, with over 1.3 million fatalities each year (WHO, 2022). In particular, collisions between vehicles and vulnerable road users (VRUs) — such as pedestrians and cyclists — have increased with rising urban density (GHSA, 2024). Although autonomous and connected vehicles are being developed to enhance traffic safety, they often fail to communicate their intentions clearly to surrounding humans, which leads to trust and predictability issues in shared environments (Habibovic et al., 2018; Dey et al., 2020).  
+  
+  **Problem:**   
+  Most existing external Human–Machine Interfaces (eHMI) focus on vehicle-to-pedestrian communication using displays or projections mounted on the vehicle body. However, these interfaces lack scalability, environmental awareness, and real-time adaptability, especially in dynamic or obstructed urban scenes (Carmona et al., 2021; Colley et al., 2020). As a result, pedestrians outside the direct line of sight or those distracted cannot receive timely safety cues.  
+
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:45%;">
+    <img src="/assets/images/research_arcas_lidar_system_layout_workflow.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
+    <figcaption>System layout and visualization workflow.</figcaption>
+  </figure>
+</div>
+  
+  **Methodology:**   
+  To address this, ARCAS introduces a wearable Augmented Reality system that integrates 2D LiDAR sensors and AR headsets (Meta Quest Pro) for real-time environment perception and visualization. The roadside LiDAR detects surrounding vehicles and pedestrians, while the server PC processes point clouds, performs object tracking, and transmits positional data to the headset.  
+
+  In the headset, a custom Unity (C#) client overlays 3D bounding boxes, positional markers, and motion cues in the user’s field of view, effectively extending situational awareness beyond the physical line of sight. The data synchronization between LiDAR and headset is handled through a Python-based TCP communication module, ensuring low-latency, frame-aligned visualization.  
+  
+  **Results:**  
 
 ### <a id="hrc"></a>Augmented Mobile Robots with Shared Perception in Uncertain Environments
 An AR-assisted human–robot collaboration system that enables shared perception and intent understanding in uncertain environments.
