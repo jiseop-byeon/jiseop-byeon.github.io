@@ -101,7 +101,7 @@ permalink: /research/
 **Summary:** A human–robot collaboration framework that integrates augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments.  
 **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
 **Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop  
-**Software:** Unity (C#), Python, ROS, Large Language Models (LLMs via LoRA), Real-time Digital Twin  
+**Software:** Unity (C#), Python, ROS
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
