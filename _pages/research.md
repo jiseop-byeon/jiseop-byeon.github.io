@@ -51,20 +51,18 @@ permalink: /research/
 
   **Methodology: Detail**  
 
-<div style="border:1px solid #ddd; background:#fafafa; padding:12px 14px; border-radius:10px; margin:10px 0; line-height:1.3;">
+<div style="border:1px solid #ddd; background:#fafafa; padding:14px 16px; border-radius:10px; margin:12px 0;">
   <strong>ARCAS Development Phases</strong>
   <h4 id="arcas-phase1">
     <a href="/arcas_phase1/" style="text-decoration:none;">(1) AR Headset–LiDAR Integration →</a>
   </h4>
   Single-user prototype linking real-time LiDAR sensing with AR visualization.<br>
-  📆 Jan. 2025 - Apr. 2025<br><br>
-  
+  📆 Jan. 2025 - Apr. 2025
   <h4 id="arcas-phase2">
     <a href="/arcas_phase2/" style="text-decoration:none;">(2) Multi-User Shared Perception →</a>
   </h4>
   Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
-  📆 May 2025 - Aug. 2025<br><br>
-  
+  📆 May 2025 - Aug. 2025
   <h4 id="arcas-phase3">
     <a href="/arcas_phase3/" style="text-decoration:none;">(3) In-Vehicle AR User →</a>
   </h4>
