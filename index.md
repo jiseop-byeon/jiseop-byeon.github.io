@@ -77,7 +77,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  **Summary:** This project develops a human–robot collaboration framework that combines augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments. The system enables mobile robots to visualize their surroundings—including obstacles, trajectories, and changes—through real-time AR interfaces, while interpreting human intent from gaze, gestures, and motion cues. By synchronizing AR headsets with robot perception data and creating an adaptive digital twin of the environment, the framework enhances transparency, situational awareness, and trust between humans and autonomous systems.  
+  **Summary:** A human–robot collaboration framework that combines augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments. The system enables mobile robots to visualize their surroundings—including obstacles, trajectories, and changes—through real-time AR interfaces, while interpreting human intent from gaze, gestures, and motion cues. By synchronizing AR headsets with robot perception data and creating an adaptive digital twin of the environment, the framework enhances transparency, situational awareness, and trust between humans and autonomous systems.  
   
   **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
   
