@@ -53,7 +53,7 @@ permalink: /research/
   📆 Jan. 2025 - Apr. 2025<br>
   (2) <b>Multi-User Shared Perception</b><br>
   Synchronizing spatial awareness across multiple AR headsets in a shared scene.<br>
-  📆 Apr. 2025 - Aug. 2025<br>
+  📆 May 2025 - Aug. 2025<br>
   (3) <b>In-Vehicle AR User</b><br>
   Extending collision visualization to drivers inside vehicles for cross-scenario awareness.<br>
   📆 Sept. 2025 - Current
