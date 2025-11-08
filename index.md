@@ -82,7 +82,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
   
   **Tools:**  
-  &nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, 360° LiDAR, Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
+  &nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, Velodyne VLP-16 3D LiDAR, Azure Kinect Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
   &nbsp;&nbsp;• **Software:** Unity (C#), Python, ROS
   
 [View more research details →](./research/#hrc)
