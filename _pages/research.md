@@ -24,12 +24,12 @@ permalink: /research/
   </figure>
 </div>
 
-  **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 2D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
+  **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 3D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
   
   **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
   
   **Tools:**  
-  &nbsp;&nbsp;• **Hardware:** Meta Quest Pro, RPLiDAR C1, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
+  &nbsp;&nbsp;• **Hardware:** Meta Quest Pro, Velodyne VLP-16 LiDAR, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
   &nbsp;&nbsp;• **Software:** Unity (C#), C++, Python
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
@@ -48,7 +48,7 @@ permalink: /research/
 </div>
   
   **Methodology: Overview**   
-  To address this, ARCAS introduces a wearable Augmented Reality system that integrates 2D LiDAR sensors and AR headsets (Meta Quest Pro) for real-time environment perception and visualization. The roadside LiDAR detects surrounding vehicles and pedestrians, while the server PC processes point clouds, performs object tracking, and transmits positional data to the headset.  
+  To address this, ARCAS introduces a wearable Augmented Reality system that integrates 3D LiDAR sensors and AR headsets (Meta Quest Pro) for real-time environment perception and visualization. The roadside LiDAR detects surrounding vehicles and pedestrians, while the server PC processes point clouds, performs object tracking, and transmits positional data to the headset.  
 
   In the headset, a custom Unity (C#) client overlays 3D bounding boxes, positional markers, and motion cues in the user’s field of view, effectively extending situational awareness beyond the physical line of sight. The data synchronization between LiDAR and headset is handled through a Python-based TCP communication module, ensuring low-latency, frame-aligned visualization.  
 
