@@ -55,12 +55,12 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   </figure>
 </div>
 
-  **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 2D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
+  **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 3D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
   
   **Keywords:** Traffic Safety, Real-Time Sensing, Augmented Reality, Human–Vehicle Interaction  
   
   **Tools:**  
-  &nbsp;&nbsp;• **Hardware:** Meta Quest Pro, RPLiDAR C1, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
+  &nbsp;&nbsp;• **Hardware:** Meta Quest Pro, Velodyne VLP-16 LiDAR, MicroStrain by HBK 6287-9960 IMU, Logitech Brio 501 Webcam, Server Laptop  
   &nbsp;&nbsp;• **Software:** Unity (C#), C++, Python
 
 [View more research details →](/research/#arcas)
