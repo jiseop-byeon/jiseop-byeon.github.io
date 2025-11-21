@@ -163,19 +163,33 @@ A comprehensive study of the project’s physical, environmental, and regulatory
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
   <ul style="margin:0; padding-left:18px;">
+
     <li><strong>History</strong></li>
+
     <li><strong>Information</strong>
       <ul style="margin-top:6px; padding-left:18px;">
-        <li>Landmarks & Educational Institutions</li>
-        <li>Topography & Slope Characteristics</li>
-        <li>Weather & Micro-Climate</li>
+        <li>Landmarks & Institutions</li>
+        <li>Topography & Weather</li>
       </ul>
     </li>
-    <li><strong>Regulation</strong></li>
-    <li><strong>Accessibility</strong></li>
+
+    <li><strong>Regulation</strong>
+      <ul style="margin-top:6px; padding-left:18px;">
+        <li>Regulatory Review, Land Price, Existing Building</li>
+      </ul>
+    </li>
+
+    <li><strong>Accessibility</strong>
+      <ul style="margin-top:6px; padding-left:18px;">
+        <li>Roads & Public Transportation</li>
+      </ul>
+    </li>
+
     <li><strong>SWOT Analysis</strong></li>
+
   </ul>
 </div>
+
 
 Full slide elaborating on the site analysis:
 
