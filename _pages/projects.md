@@ -7,6 +7,56 @@ toc_sticky: true
 permalink: /projects/
 ---
 
+<style>
+.slider-container {
+  width: 90%;
+  margin: 25px auto;
+  position: relative;
+  overflow: visible;
+}
+
+.slider {
+  display: flex;
+  gap: 20px;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  padding: 20px 0;
+}
+
+.slide {
+  min-width: 60%;
+  scroll-snap-align: center;
+  position: relative;
+}
+
+.slide img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.view-btn {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  padding: 7px 12px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+/* 🔥 캡션 추가 */
+.caption {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.4;
+}
+</style>
+
 ## 📂 Recent Projects
 
 ### <a id="bayesian"></a>· Bayesian Spatial Analysis of Bike-share Data for Cyclist Speed Zone Prediction in Austin, Texas  
@@ -108,4 +158,66 @@ Statistical modeling of shared mobility usage patterns.
 ARE3080. Architectural Integrated Design I | Hanyang University  
 📆 Mar. 2022 - Jun.2022  
 
-Efficient hybrid CNN–Transformer for mobile medical imaging.
+#### ① Site Analysis
+
+<div class="slider-container">
+  <div class="slider">
+
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0001.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0002.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0003.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0004.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0005.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0006.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0007.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0008.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0009.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0010.jpg"></div>
+
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0011.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0012.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0013.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0014.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0015.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0016.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0017.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0018.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0019.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0020.jpg"></div>
+
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0021.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0022.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0023.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0024.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0025.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0026.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0027.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0028.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0029.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/site_analysis/site_analysis_page-0030.jpg"></div>
+
+  </div>
+</div>
+
+#### ② Design Concept
+
+<div class="slider-container">
+  <div class="slider">
+
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0001.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0002.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0003.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0004.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0005.jpg"></div>
+
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0006.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0007.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0008.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0009.jpg"></div>
+    <div class="slide"><img src="/assets/images/luxury/design_concept/design_concept_page-0010.jpg"></div>
+
+  </div>
+</div>
+
+
+
