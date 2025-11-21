@@ -159,10 +159,9 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 📆 Mar. 2022 - Jun.2022  
 
 #### ① Site Analysis  
+A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <p>A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:</p>
-
   <ul>
     <li><strong>History</strong><br>
       Historical evolution of Itaewon-dong and past development patterns.
@@ -189,8 +188,6 @@ ARE3080. Architectural Integrated Design I | Hanyang University
       Strengths, weaknesses, opportunities, and threats derived from the site’s physical and socioeconomic context.
     </li>
   </ul>
-
-  <p style="margin-top:12px; margin-bottom:0;">Full slide elaborating on the site analysis:</p>
 </div>
 
 
@@ -241,10 +238,9 @@ Full slide elaborating on the site analysis:
 ---
 
 #### ② Design Concept  
+The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <p>The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:</p>
-
   <ul>
     <li><strong>Residence Information</strong><br>
       Outlines each family member’s background and required spaces — including a professional kitchen, a private home office, a sound-isolated music room, a creative workspace, and safe play areas — forming the foundation for programmatic zoning.
@@ -254,8 +250,6 @@ Full slide elaborating on the site analysis:
       Establishes a hierarchy of private, transitional, and social spaces inspired by a cabin-like spatial quality, where boundaries shift fluidly between indoors and outdoors. The arrangement balances privacy with communal life, organizing functions around a central family zone for natural circulation and connection.
     </li>
   </ul>
-
-  <p style="margin-top:12px; margin-bottom:0;">Full slide summarizing the design concept:</p>
 </div>
 
 
