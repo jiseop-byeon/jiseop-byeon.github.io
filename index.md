@@ -153,7 +153,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   📆 Sept. 2022 - Dec. 2022  
   Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.
 
-  [View more projects details →](./projects/mfc)
+  [View more projects details →](./projects/#mfc)
 
 ---
 
@@ -161,7 +161,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   📆 Mar. 2022 - Jun. 2022  
   Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.  
 
-  [View more projects details →](./projects/luxury)
+  [View more projects details →](./projects/#luxury)
 
 ---
 
