@@ -162,34 +162,20 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <ul>
-    <li><strong>History</strong><br>
-      Historical evolution of Itaewon-dong and past development patterns.
-    </li>
-
-    <li><strong>Information</strong><br>
-      Key contextual attributes shaping the site’s development potential, including:
-      <ul style="margin-top:6px;">
-        <li><strong>Landmarks & Educational Institutions</strong> — Cultural anchors and service facilities within the neighborhood.</li>
-        <li><strong>Topography & Slope Characteristics</strong> — Terrain profile and elevation differences influencing circulation and massing.</li>
-        <li><strong>Weather & Micro-Climate</strong> — Sunlight, prevailing winds, and seasonal comfort considerations.</li>
+  <ul style="margin:0; padding-left:18px;">
+    <li><strong>History</strong></li>
+    <li><strong>Information</strong>
+      <ul style="margin-top:6px; padding-left:18px;">
+        <li>Landmarks & Educational Institutions</li>
+        <li>Topography & Slope Characteristics</li>
+        <li>Weather & Micro-Climate</li>
       </ul>
     </li>
-
-    <li><strong>Regulation</strong><br>
-      Permissible actions, construction laws, land price distribution, and existing building conditions.
-    </li>
-
-    <li><strong>Accessibility</strong><br>
-      Road hierarchy, public transportation network, and population density.
-    </li>
-
-    <li><strong>SWOT Analysis</strong><br>
-      Strengths, weaknesses, opportunities, and threats derived from the site’s physical and socioeconomic context.
-    </li>
+    <li><strong>Regulation</strong></li>
+    <li><strong>Accessibility</strong></li>
+    <li><strong>SWOT Analysis</strong></li>
   </ul>
 </div>
-
 
 Full slide elaborating on the site analysis:
 
@@ -241,17 +227,11 @@ Full slide elaborating on the site analysis:
 The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <ul>
-    <li><strong>Residence Information</strong><br>
-      Outlines each family member’s background and required spaces — including a professional kitchen, a private home office, a sound-isolated music room, a creative workspace, and safe play areas — forming the foundation for programmatic zoning.
-    </li>
-
-    <li><strong>Room Arrangement Strategy</strong><br>
-      Establishes a hierarchy of private, transitional, and social spaces inspired by a cabin-like spatial quality, where boundaries shift fluidly between indoors and outdoors. The arrangement balances privacy with communal life, organizing functions around a central family zone for natural circulation and connection.
-    </li>
+  <ul style="margin:0; padding-left:18px;">
+    <li><strong>Residence Information</strong></li>
+    <li><strong>Room Arrangement Strategy</strong></li>
   </ul>
 </div>
-
 
 Full slide summarizing the design concept:
 
