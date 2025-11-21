@@ -161,22 +161,22 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 #### ① Site Analysis  
 A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:
 
-- **History**  
+##### • History  
   Historical evolution of Itaewon-dong and past development patterns.
 
-- **Information**  
+##### • Information  
   Key contextual attributes shaping the site’s development potential, including:  
-  • **Landmarks & Educational Institutions** — Cultural anchors and service facilities within the neighborhood.  
-  • **Topography & Slope Characteristics** — Terrain profile and elevation differences influencing circulation and massing.  
-  • **Weather & Micro-Climate** — Sunlight, prevailing winds, and seasonal comfort considerations.
+  - **Landmarks & Educational Institutions** — Cultural anchors and service facilities within the neighborhood.  
+  - **Topography & Slope Characteristics** — Terrain profile and elevation differences influencing circulation and massing.  
+  - **Weather & Micro-Climate** — Sunlight, prevailing winds, and seasonal comfort considerations.
 
-- **Regulation**  
+##### • Regulation  
   Permissible actions, construction laws, land price distribution, and existing building conditions.
 
-- **Accessibility**  
+##### • Accessibility  
   Road hierarchy, public transportation network, and population density.
 
-- **SWOT Analysis**  
+##### • SWOT Analysis  
   Strengths, weaknesses, opportunities, and threats derived from the site’s physical and socioeconomic context.
 
 Full slide elaborating on the site analysis:
@@ -228,14 +228,13 @@ Full slide elaborating on the site analysis:
 #### ② Design Concept  
 The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:
 
-- **Residence Information**  
+##### • Residence Information  
   Outlines each family member’s background and required spaces — including a professional kitchen, a private home office, a sound-isolated music room, a creative workspace, and safe play areas — forming the foundation for programmatic zoning.
 
-- **Room Arrangement Strategy**  
+##### • Room Arrangement Strategy  
   Establishes a hierarchy of private, transitional, and social spaces inspired by a cabin-like spatial quality, where boundaries shift fluidly between indoors and outdoors. The arrangement balances privacy with communal life, organizing functions around a central family zone for natural circulation and connection.
 
 Full slide summarizing the design concept:
-
 
 <div class="slider-container">
   <div class="slider">
