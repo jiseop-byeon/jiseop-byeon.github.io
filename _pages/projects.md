@@ -159,25 +159,42 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 📆 Mar. 2022 - Jun.2022  
 
 #### ① Site Analysis  
-A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:
 
-##### • History  
-  Historical evolution of Itaewon-dong and past development patterns.
+<div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
+  <h4 style="margin-top:0; margin-bottom:10px;">① Site Analysis</h4>
 
-##### • Information  
-  Key contextual attributes shaping the site’s development potential, including:  
-  - **Landmarks & Educational Institutions** — Cultural anchors and service facilities within the neighborhood.  
-  - **Topography & Slope Characteristics** — Terrain profile and elevation differences influencing circulation and massing.  
-  - **Weather & Micro-Climate** — Sunlight, prevailing winds, and seasonal comfort considerations.
+  <p>A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:</p>
 
-##### • Regulation  
-  Permissible actions, construction laws, land price distribution, and existing building conditions.
+  <ul>
+    <li><strong>History</strong><br>
+      Historical evolution of Itaewon-dong and past development patterns.
+    </li>
 
-##### • Accessibility  
-  Road hierarchy, public transportation network, and population density.
+    <li><strong>Information</strong><br>
+      Key contextual attributes shaping the site’s development potential, including:
+      <ul style="margin-top:6px;">
+        <li><strong>Landmarks & Educational Institutions</strong> — Cultural anchors and service facilities within the neighborhood.</li>
+        <li><strong>Topography & Slope Characteristics</strong> — Terrain profile and elevation differences influencing circulation and massing.</li>
+        <li><strong>Weather & Micro-Climate</strong> — Sunlight, prevailing winds, and seasonal comfort considerations.</li>
+      </ul>
+    </li>
 
-##### • SWOT Analysis  
-  Strengths, weaknesses, opportunities, and threats derived from the site’s physical and socioeconomic context.
+    <li><strong>Regulation</strong><br>
+      Permissible actions, construction laws, land price distribution, and existing building conditions.
+    </li>
+
+    <li><strong>Accessibility</strong><br>
+      Road hierarchy, public transportation network, and population density.
+    </li>
+
+    <li><strong>SWOT Analysis</strong><br>
+      Strengths, weaknesses, opportunities, and threats derived from the site’s physical and socioeconomic context.
+    </li>
+  </ul>
+
+  <p style="margin-top:12px; margin-bottom:0;">Full slide elaborating on the site analysis:</p>
+</div>
+
 
 Full slide elaborating on the site analysis:
 
@@ -226,13 +243,25 @@ Full slide elaborating on the site analysis:
 ---
 
 #### ② Design Concept  
-The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:
 
-##### • Residence Information  
-  Outlines each family member’s background and required spaces — including a professional kitchen, a private home office, a sound-isolated music room, a creative workspace, and safe play areas — forming the foundation for programmatic zoning.
+<div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
+  <h4 style="margin-top:0; margin-bottom:10px;">② Design Concept</h4>
 
-##### • Room Arrangement Strategy  
-  Establishes a hierarchy of private, transitional, and social spaces inspired by a cabin-like spatial quality, where boundaries shift fluidly between indoors and outdoors. The arrangement balances privacy with communal life, organizing functions around a central family zone for natural circulation and connection.
+  <p>The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:</p>
+
+  <ul>
+    <li><strong>Residence Information</strong><br>
+      Outlines each family member’s background and required spaces — including a professional kitchen, a private home office, a sound-isolated music room, a creative workspace, and safe play areas — forming the foundation for programmatic zoning.
+    </li>
+
+    <li><strong>Room Arrangement Strategy</strong><br>
+      Establishes a hierarchy of private, transitional, and social spaces inspired by a cabin-like spatial quality, where boundaries shift fluidly between indoors and outdoors. The arrangement balances privacy with communal life, organizing functions around a central family zone for natural circulation and connection.
+    </li>
+  </ul>
+
+  <p style="margin-top:12px; margin-bottom:0;">Full slide summarizing the design concept:</p>
+</div>
+
 
 Full slide summarizing the design concept:
 
