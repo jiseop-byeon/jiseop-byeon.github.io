@@ -161,8 +161,6 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 #### ① Site Analysis  
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <h4 style="margin-top:0; margin-bottom:10px;">① Site Analysis</h4>
-
   <p>A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:</p>
 
   <ul>
@@ -245,8 +243,6 @@ Full slide elaborating on the site analysis:
 #### ② Design Concept  
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
-  <h4 style="margin-top:0; margin-bottom:10px;">② Design Concept</h4>
-
   <p>The design concept is grounded in the diverse lifestyles of the five residents and the way their daily routines inform spatial needs and shared interactions. It is organized into two key components:</p>
 
   <ul>
