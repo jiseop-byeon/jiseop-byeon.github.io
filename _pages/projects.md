@@ -158,6 +158,11 @@ Statistical modeling of shared mobility usage patterns.
 ARE3080. Architectural Integrated Design I | Hanyang University  
 📆 Mar. 2022 - Jun.2022  
 
+<hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
+
+Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
+
+
 #### ① Site Analysis  
 A comprehensive study of the project’s physical, environmental, and regulatory context, structured as follows:
 
