@@ -70,12 +70,6 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 - **Augmented Mobile Robots with Shared Perception in Uncertain Environments**  
   📆 Sept. 2025 - Present
 
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%;">
-    <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
-    <figcaption>System Overview of the AR-Robot Platform</figcaption>
-  </figure>
-</div>  
 
   **Summary:** A human–robot collaboration framework that combines augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments. The system enables mobile robots to visualize their surroundings—including obstacles, trajectories, and changes—through real-time AR interfaces, while interpreting human intent from gaze, gestures, and motion cues. By synchronizing AR headsets with robot perception data and creating an adaptive digital twin of the environment, the framework enhances transparency, situational awareness, and trust between humans and autonomous systems.  
   
