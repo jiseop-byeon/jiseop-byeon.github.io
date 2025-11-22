@@ -329,6 +329,42 @@ This section presents the complete architectural drawing set, including plans, e
   </ul>
 </div>
 
+<div class="slider-container">
+  <div class="slider">
+
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0001.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0001.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0002.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0002.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0003.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0003.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0004.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0004.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0005.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0005.jpg"></a></div>
+
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0006.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0006.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0007.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0007.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0008.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0008.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0009.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0009.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0010.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0010.jpg"></a></div>
+
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0011.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0011.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0012.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0012.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0013.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0013.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0014.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0014.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0015.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0015.jpg"></a></div>
+
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0016.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0016.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0017.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0017.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0018.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0018.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0019.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0019.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0020.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0020.jpg"></a></div>
+
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0021.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0021.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0022.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0022.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0023.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0023.jpg"></a></div>
+    <div class="slide"><a href="/assets/images/luxury/drawings/drawings_page-0024.jpg" target="_blank"><img src="/assets/images/luxury/drawings/drawings_page-0024.jpg"></a></div>
+
+  </div>
+</div>
+
+
 
 
 
