@@ -144,13 +144,39 @@ Refine the model with multimodal likelihoods to capture heterogeneous riding beh
 
 ---
 
-### <a id="mfc"></a>· Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea  
-ARE5009. Adventure Design II | Hanyang University  
-📆 Aug. 2022 - Dec.2022  
+### <a id="mfc"></a>· Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea
+
+ARE5009. Adventure Design II | Hanyang University
+📆 Aug. 2022 – Dec. 2022
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
-Statistical modeling of shared mobility usage patterns.
+Summary:
+This project proposes MES (Mobility–Energy–Shopping), a future-ready urban infrastructure that transforms underutilized gas station sites in Seoul into vertically integrated Micro Fulfillment Centers (MFCs) combined with EV charging stations. Using public datasets—including population density, parcel area, delivery volume, and the spatial distribution of gas stations—the study identifies optimal sites and determines the required MFC scale for each location. Through data-driven spatial analysis and algorithmic modeling, the project presents a new typology for urban logistics and electric-mobility infrastructure in high-density cities.
+
+Keywords:
+EV Charging Infrastructure, Micro Fulfillment Center, Urban Logistics, Gas Station Reuse, Data-Driven Spatial Design
+
+Tools:
+  • Software: QGIS, Rhino 3D & Grasshopper (C# Scripting)
+  • Data: Public datasets on population, delivery volume, parcel areas, and all 472 gas station locations in Seoul
+
+Methodology:
+
+Data Collection: Compiled public data from Seoul Open Data Portal, including population by district, parcel sizes, delivery volume distribution, and gas station coordinates.
+
+Spatial Analysis (QGIS):
+– Mapped gas station distribution and removed 39 irregular outliers for stable analysis.
+– Performed district-level comparison of population, parcel density, and delivery demand.
+
+Parametric Modeling (Rhino 3D & Grasshopper):
+– Modeled each station’s parcel geometry, land coverage, and floor-area ratio constraints.
+– Computed buildable volume and feasible vertical MFC capacity.
+
+Algorithmic Modeling (Voronoi + C#):
+– Applied Voronoi spatial division to compute each station’s service territory.
+– Used custom C# scripts in Grasshopper to allocate required MFC area as weighted by service area, delivery volume, and parcel size.
+– Ranked and selected optimal sites (e.g., Gangnam-gu, Songpa-gu) based on aggregated scores.
 
 ---
 
