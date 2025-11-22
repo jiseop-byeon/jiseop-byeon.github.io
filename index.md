@@ -53,7 +53,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
     <img src="/assets/images/research_arcas_main.png" alt="ARCAS concept" style="width:100%; border-radius:8px;">
     <figcaption>ARCAS Concept Diagram</figcaption>
   </figure>
-</div>
+</div>  
 
   **Summary:** ARCAS is a real-time augmented reality (AR) system that integrates 3D LiDAR sensing with wearable headsets to enhance spatial awareness and prevent collisions between pedestrians and vehicles. The system operates through TCP/IP communication between a LiDAR processing server and AR headsets, detecting nearby objects and visualizing potential collision risks directly in the user’s field of view. It evolves from a single-user setup linking LiDAR perception with AR visualization to a coordinated framework that synchronizes multiple headsets and extends situational awareness to vehicle occupants. As a human-in-the-loop system, ARCAS allows users to perceive, anticipate, and respond to dynamic traffic hazards, bridging human perception and automated sensing for safer mixed traffic environments.  
   
@@ -75,7 +75,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
     <img src="/assets/images/research_robot_system.png" alt="A=robot system" style="width:100%; border-radius:8px;">
     <figcaption>System Overview of the AR-Robot Platform</figcaption>
   </figure>
-</div>
+</div>  
 
   **Summary:** A human–robot collaboration framework that combines augmented reality (AR) and multi-modal sensing to achieve shared perception and intent understanding in uncertain, dynamic environments. The system enables mobile robots to visualize their surroundings—including obstacles, trajectories, and changes—through real-time AR interfaces, while interpreting human intent from gaze, gestures, and motion cues. By synchronizing AR headsets with robot perception data and creating an adaptive digital twin of the environment, the framework enhances transparency, situational awareness, and trust between humans and autonomous systems.  
   
@@ -108,7 +108,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
          style="width:100%; height:auto; border-radius:8px;">
     <figcaption>Trace plots and density plots for one of our covariate coefficients and our tau variable</figcaption>
   </figure>
-</div>
+</div>  
 
   **Summary:** This project applies Bayesian hierarchical modeling to predict average cyclist speeds in Austin’s MetroBike network. Using two City of Austin datasets — MetroBike Trips and MetroBike Kiosk Locations — the study integrates spatial coordinates of checkout and return kiosks to generate a continuous “speed map” across the city. By identifying high and low average speed zones, the model highlights potentially hazardous or congested routes for cyclists and provides actionable insights for urban mobility planning.  
 
@@ -126,7 +126,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
          style="width:100%; height:auto; border-radius:8px;">
     <figcaption>SARIMA Prediction for Southbound-Out Direction at the Menchaca Intersection (1st Week of October).</figcaption>
   </figure>
-</div>
+</div>  
 
   **Summary:**  
   This project analyzes short-term traffic flow patterns at the Lamar–Manchaca intersection in Austin using a Seasonal Autoregressive Integrated Moving Average (SARIMA) model. By applying 15-minute interval radar data from the City of Austin Open Data Portal, the study successfully forecasts one week of traffic volume trends, identifying recurring daily and weekly traffic patterns and peak-hour behaviors.  
