@@ -111,13 +111,6 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 </div>
 
   **Summary:** This project applies Bayesian hierarchical modeling to predict average cyclist speeds in Austin’s MetroBike network. Using two City of Austin datasets — MetroBike Trips and MetroBike Kiosk Locations — the study integrates spatial coordinates of checkout and return kiosks to generate a continuous “speed map” across the city. By identifying high and low average speed zones, the model highlights potentially hazardous or congested routes for cyclists and provides actionable insights for urban mobility planning.  
-  
-  **Keywords:** Bayesian Statistics, Spatial Modeling, Shared Mobility, Urban Safety  
-  
-  **Tools:**  
-  &nbsp;&nbsp;• **Dataset:** [Austin MetroBike Trips](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Trips/tyfh-5r8s/about_data), [Austin MetroBike Kiosk Locations
-](https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/about_data)  
-  &nbsp;&nbsp;• **Software:** R, Python  
 
   [View more projects details →](./projects/#bayesian)
 
@@ -138,20 +131,17 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   **Summary:**  
   This project analyzes short-term traffic flow patterns at the Lamar–Manchaca intersection in Austin using a Seasonal Autoregressive Integrated Moving Average (SARIMA) model. By applying 15-minute interval radar data from the City of Austin Open Data Portal, the study successfully forecasts one week of traffic volume trends, identifying recurring daily and weekly traffic patterns and peak-hour behaviors.  
 
-  **Keywords:**  
-  Traffic Forecasting, Time-Series Analysis, SARIMA, Urban Mobility, Austin Transportation  
-
-  **Tools:**  
-  &nbsp;&nbsp;• **Dataset:** [Radar Traffic Counts](https://data.austintexas.gov/Transportation-and-Mobility/Wavetronix-Traffic-Sensors/xecs-rpy9/about_data)  
-  &nbsp;&nbsp;• **Software:** Python, Excel
-
   [View more projects details →](./projects/#sarima)
 
 ---
 
 - **Optimal Sites and Scale Selection for Micro Fulfillment Center (MFC) Construction in Seoul, Korea**  
   📆 Sept. 2022 - Dec. 2022  
-  Spatial and regulatory analysis for selecting and designing optimal MFC construction sites using urban data and zoning laws.
+
+  **Summary:**  
+  This project proposes MES (Mobility–Energy–Shopping), a future-ready urban infrastructure that transforms underutilized gas station sites in Seoul into vertically integrated Micro Fulfillment Centers (MFCs) combined with EV charging stations. Using public datasets—including population density, parcel area, delivery volume, and the spatial distribution of gas stations—the study identifies optimal sites and determines the required MFC scale for each location. Through data-driven spatial analysis and algorithmic modeling, the project presents a new typology for urban logistics and electric-mobility infrastructure in high-density cities.  
+
+
 
   [View more projects details →](./projects/#mfc)
 
@@ -159,6 +149,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
 
 - **Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea**  
   📆 Mar. 2022 - Jun. 2022  
+
+  **Summary:**  
   Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.  
 
   [View more projects details →](./projects/#luxury)
