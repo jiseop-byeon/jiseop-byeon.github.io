@@ -109,7 +109,7 @@ permalink: /research/
 **Keywords:** Human–Robot Collaboration (HRC), Shared Perception, Augmented Reality, Explainable AI, Digital Twin  
 
 **Tools:**  
-&nbsp;&nbsp;• **Hardware:** Clearpath Husky A300, Velodyne VLP-16 3D LiDAR, Azure Kinect Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
+&nbsp;&nbsp;• **Hardware:** Clearpath Husky A200, Velodyne VLP-16 3D LiDAR, Azure Kinect Depth Cameras, Meta Quest Pro (IMU/face/hand tracking), Server Laptop   
 &nbsp;&nbsp;• **Software:** Unity (C#), Python, ROS
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
