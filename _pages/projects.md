@@ -274,7 +274,7 @@ Full slide summarizing the design concept:
 
 ---
 
-#### ③ Drawings  
+#### ③ Drawings (Written in Korean)
 This section presents the complete architectural drawing set, including plans, elevations, and sections that illustrate the spatial configuration and formal resolution of the project.
 
 <div style="border:1px solid #ddd; background:#fafafa; padding:16px 20px; border-radius:10px; margin:18px 0;">
