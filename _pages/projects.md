@@ -151,6 +151,13 @@ ARE5009. Adventure Design II | Hanyang University
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
 
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:90%;">
+    <img src="/assets/images/project_mfc_grasshopper.png" alt="A=grasshopper" style="width:100%; border-radius:8px;">
+    <figcaption>Grasshopper was used to automate Voronoi-based service area calculation, weighted MFC sizing, and buildable volume analysis for each gas station site.</figcaption>
+  </figure>
+</div>  
+
 **Summary:**  
 This project proposes MES (Mobility–Energy–Shopping), a future-ready urban infrastructure that transforms underutilized gas station sites in Seoul into vertically integrated Micro Fulfillment Centers (MFCs) combined with EV charging stations. Using public datasets—including population density, parcel area, delivery volume, and the spatial distribution of gas stations—the study identifies optimal sites and determines the required MFC scale for each location. Through data-driven spatial analysis and algorithmic modeling, the project presents a new typology for urban logistics and electric-mobility infrastructure in high-density cities.  
 
@@ -185,6 +192,13 @@ ARE3080. Architectural Integrated Design I | Hanyang University
 📆 Mar. 2022 - Jun.2022  
 
 <hr style="border: none; border-top: 1px dashed #aaa; margin: 1.2em 0;">
+
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <figure style="text-align:center; width:80%;">
+    <img src="/assets/images/project_luxury_overview.png" alt="A=overview" style="width:100%; border-radius:8px;">
+    <figcaption>The left image is a structural perspective showing the building’s exterior form and stair core, while the right image is an exploded axonometric illustrating the spatial layout of each floor.</figcaption>
+  </figure>
+</div>  
 
 Architectural design of a luxury family residence in Itaewon reflecting the lifestyle needs of a five-member household, using AutoCAD, Revit, and SketchUp for site analysis, legal review, and 3D visualization.
 
