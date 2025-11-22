@@ -139,7 +139,7 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   📆 Sept. 2022 - Dec. 2022  
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%;">
+  <figure style="text-align:center; width:90%;">
     <img src="/assets/images/project_mfc_grasshopper.png" alt="A=grasshopper" style="width:100%; border-radius:8px;">
     <figcaption>Grasshopper was used to automate Voronoi-based service area calculation, weighted MFC sizing, and buildable volume analysis for each gas station site.</figcaption>
   </figure>
@@ -158,8 +158,8 @@ My research focuses on **Augmented Reality, Sensors, and Robotics** applications
   📆 Mar. 2022 - Jun. 2022  
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <figure style="text-align:center; width:45%;">
-    <img src="/assets/images/project_mfc_grasshopper.png" alt="A=overview" style="width:100%; border-radius:8px;">
+  <figure style="text-align:center; width:80%;">
+    <img src="/assets/images/project_luxury_overview.png" alt="A=overview" style="width:100%; border-radius:8px;">
     <figcaption>The left image is a structural perspective showing the building’s exterior form and stair core, while the right image is an exploded axonometric illustrating the spatial layout of each floor.</figcaption>
   </figure>
 </div>  
