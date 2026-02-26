@@ -120,16 +120,6 @@ Autonomous mobile robots now operate in campuses, hospitals, and public spaces. 
 **Problem:**  
 We need a bi-directional channel where robots understand human intent (gaze, gestures, motion patterns) and humans intuitively grasp robot reasoning and environmental understanding. Bridging this gap demands an interdisciplinary, shared-perception architecture that fuses robotics/AI, AR visualization, and cognitive psychology.  
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius:10px;">
-  <iframe src="https://www.youtube.com/embed/pUWPkGKrnt0"
-  title="AR–Robot Shared Perception Demo"
-  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
-</div>
-<p style="text-align:center;"><em>Demonstration video</em></p>
-
 **Methodology: Overview**  
 The system enables humans and robots to co-perceive and co-interpret complex scenes through AR devices synchronized with robot sensors, organized into three layers:
 
