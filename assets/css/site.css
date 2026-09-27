@@ -54,11 +54,11 @@ img { max-width: 100%; height: auto; }
 .intro__role { margin: 2px 0 16px; color: var(--muted); }
 .intro__aff { display: inline-block; }   /* the university name wraps as one unit */
 .intro__photo { flex: none; width: 150px; height: 150px; border-radius: 50%; object-fit: cover; }
-/* Link row as icons: calm grey, link colour on hover; each target is 34px square. */
+/* Link row as icons: calm grey, near-black on hover; each target is 34px square. */
 .icons { display: flex; flex-wrap: wrap; gap: 4px; margin: 2px 0 0 -6px; padding: 0; list-style: none; }
 .icons li { margin: 0; }
 .icons a, .icons__off { display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 4px; color: var(--muted); }
-.icons a:hover { color: var(--link); }
+.icons a:hover { color: var(--text); }
 .icons svg { width: 22px; height: 22px; }
 .icons__off { opacity: 0.55; cursor: default; }
 

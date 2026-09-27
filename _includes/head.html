@@ -4,6 +4,7 @@
 {%- if page.noindex %}
 <meta name="robots" content="noindex">
 {%- endif %}
-<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+{%- comment %} ?v= changes on every build, so browsers never pair a new page with a cached old stylesheet. {% endcomment %}
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
 {% seo %}
