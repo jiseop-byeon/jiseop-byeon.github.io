@@ -1,5 +1,7 @@
 # Top of the homepage.
 name: Jiseop Byeon
+# Shown small and unbolded next to the name (Korean name, then Hanja).
+name_ko: [변지섭, 卞智燮]
 role: Ph.D. Student in Civil Engineering
 affiliation: The University of Texas at Austin
 photo: /assets/images/web/profile-300.webp

@@ -10,7 +10,7 @@ layout: default
 
 <section class="intro">
   <div class="intro__text">
-    <h1>{{ p.name }}</h1>
+    <h1>{{ p.name }}{% for n in p.name_ko %} <span class="name-ko" lang="ko">{{ n }}</span>{% endfor %}</h1>
     <p class="intro__role">{{ p.role }}, <span class="intro__aff">{{ p.affiliation }}</span></p>
     {%- for para in p.bio %}
     {{ para | markdownify }}
