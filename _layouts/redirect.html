@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }} — {{ site.title }}</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+{%- comment -%}
+  `redirect_to: /#research` goes to that section; with `keep_hash: true` an incoming anchor wins
+  (e.g. /research/#arcas → /#arcas).
+{%- endcomment -%}
+{%- assign parts = page.redirect_to | split: "#" -%}
+{%- assign base = parts[0] | default: "/" | relative_url -%}
+{%- if parts.size > 1 %}{% assign frag = parts[1] | prepend: "#" %}{% else %}{% assign frag = "" %}{% endif %}
+<script>location.replace({{ base | jsonify }} + ({% if page.keep_hash %}location.hash || {% endif %}{{ frag | jsonify }}));</script>
+<meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
+</head>
+<body>
+<p>This page moved to <a href="{{ page.redirect_to | relative_url }}">{{ page.redirect_to | absolute_url }}</a>.</p>
+</body>
+</html>

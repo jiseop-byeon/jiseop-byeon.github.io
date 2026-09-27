@@ -1,0 +1,18 @@
+- title: Ph.D. in Civil Engineering
+  where: The University of Texas at Austin
+  when: 2026 – present
+- title: M.S. in Civil Engineering
+  where: The University of Texas at Austin
+  when: 2024 – 2026
+- title: B.S. in Architectural Engineering
+  where: Hanyang University
+  when: 2018 – 2024
+  note: Summa Cum Laude; Minor in Mechanical Engineering
+- title: Exchange Student, Civil & Environmental Engineering
+  where: University of Michigan
+  when: Fall 2021
+# `cv_only: true` entries appear on the CV page but not on the homepage.
+- title: Military Service
+  where: Republic of Korea Air Force
+  when: 2019 – 2021
+  cv_only: true

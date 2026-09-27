@@ -1,0 +1,10 @@
+# `hidden: true` keeps a group here but leaves it off the CV page.
+- group: Languages
+  items: [Python, C++, C#, MATLAB, R]
+- group: ML & Data
+  items: [PyTorch, NumPy, Pandas, OpenCV, Matplotlib, Seaborn]
+- group: Systems
+  items: [Unity, ROS, Git, LaTeX]
+- group: Design
+  hidden: true
+  items: [AutoCAD, Revit, Rhino + Grasshopper, SketchUp]

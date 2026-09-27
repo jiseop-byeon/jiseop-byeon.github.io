@@ -1,49 +1,67 @@
-title: "Jiseop Byeon"
-email: jsbyeon@utexas.edu
-description: "Research and project updates in Civil Engineering leveraging AR and Robotics."
+# Site settings — a custom Jekyll site built by GitHub Pages (Jekyll 3.10, safe mode).
+# Content lives in _data/*.yml; this file only holds site-wide settings.
+title: Jiseop Byeon
+description: >-
+  Ph.D. student in Civil Engineering at The University of Texas at Austin, working on robotics,
+  sensing, and AR for automated civil and construction systems.
+# Homepage <title> becomes "Jiseop Byeon | <tagline>".
+tagline: Ph.D. Student in Civil Engineering, UT Austin
 url: "https://jiseop-byeon.github.io"
-baseurl: "" # leave empty for user.github.io sites
-repository: "jiseop-byeon/jiseop-byeon.github.io"
+baseurl: "" # leave empty for a user.github.io site
+repository: jiseop-byeon/jiseop-byeon.github.io
+lang: en_US
+timezone: America/Chicago
 
-# Theme
-remote_theme: "mmistakes/minimal-mistakes"
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-paginate: 5
-paginate_path: "/page:num/"
-
-# Author info
 author:
-  name: "Jiseop Byeon"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Master's student in Civil Engineering at UT Austin, researching AR, Sensors, and Robotics applications for smart and safe civil systems."
-  location: "Austin, TX"
+  name: Jiseop Byeon
+  email: jsbyeon@utexas.edu
+  url: "https://jiseop-byeon.github.io"
+
+# jekyll-seo-tag: links for the JSON-LD "Person" record.
+social:
+  name: Jiseop Byeon
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "https://mail.google.com/mail/?view=cm&fs=1&to=jsbyeon@utexas.edu"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/jiseop-byeon"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/jiseop-byeon-887086208/"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/jiseop.byeon"
+    - https://scholar.google.com/citations?user=gO4rtMQAAAAJ
+    - https://github.com/jiseop-byeon
+    - https://www.linkedin.com/in/jiseop-byeon-887086208/
+    - https://instagram.com/jiseop.byeon
 
-# Extras
-locale: "en-US"
-timezone: "America/Chicago"
-theme_skin: "default"
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+# Safe mode only loads whitelisted plugins. GitHub Pages supplies its own whitelist (which includes
+# both); listing them here makes a plain local `jekyll build --safe` behave the same way.
+whitelist:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-include:
-  - assets
-  - _pages
+# Every page gets the small square profile photo as its share image, on a small ("summary") card.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/profile-600.jpg
+      twitter:
+        card: summary
+
+exclude:
+  - _archive
+  # Images of hidden projects and research entries stay in the repo but are not published
+  # (see _archive/README.md).
+  - assets/images/luxury
+  - assets/images/project_*
+  - assets/images/web/project_*
+  - assets/images/research_*
+  - assets/images/web/research_*
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache

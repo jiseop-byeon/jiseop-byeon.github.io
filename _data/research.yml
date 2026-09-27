@@ -1,0 +1,24 @@
+# Research, in display order. `hidden: true` keeps an entry here but leaves it off the site.
+# Both projects are now shown through their papers in publications.yml (which carries the #hrc and
+# #arcas anchors), so they are hidden here; with every entry hidden, the Research section disappears.
+- id: hrc-project
+  hidden: true
+  title: Augmented Mobile Robots with Shared Perception in Uncertain Environments
+  period: Sep 2025 – present
+  where: MASS Lab, UT Austin
+  image: /assets/images/web/research_robot_system.webp
+  figure: /assets/images/research_robot_system.png
+  text: >-
+    A two-way AR interface between people and a mobile robot: the robot shows what it senses and
+    plans, and reads human intent from gaze, gestures, and motion.
+
+- id: arcas-project
+  hidden: true
+  title: "ARCAS: Augmented Reality Collision Avoidance System"
+  period: Jan 2025 – present
+  where: MASS Lab, UT Austin, with Honda Development & Manufacturing of America
+  image: /assets/images/web/research_arcas_main.webp
+  figure: /assets/images/research_arcas_main.png
+  text: >-
+    Streams roadside LiDAR detections to AR headsets so pedestrians and drivers can see collision
+    risks in their field of view, even beyond line of sight.

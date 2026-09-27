@@ -1,0 +1,70 @@
+# Publications, newest first. Source: Google Scholar
+# (https://scholar.google.com/citations?user=gO4rtMQAAAAJ) and the arXiv pages.
+# `id` is the link anchor (e.g. /#arcas). `thumb` is the paper's key figure as a 480x360 WebP in
+# assets/images/pubs/ (made from the arXiv figures); without it the entry shows `short` in a box.
+# `hidden: true` keeps an entry here but leaves it off the site (the site shows CS/robotics work only).
+
+# The robot project (/research/#hrc lands here). Accepted to IROS 2026 (owner, Sep 2026). Title and authors
+# follow the latest arXiv version; Google Scholar still lists v1 as
+# "XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots".
+- id: hrc
+  title: "XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control"
+  authors: Tianyi Wang, Jiseop Byeon, Ahmad Yehia, Yiming Xu, Jihyung Park, Tianyi Zeng, Sikai Chen, Ziran Wang, Junfeng Jiao, Christian Claudel
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2026
+  short: IROS 2026
+  thumb: /assets/images/pubs/xrdt.webp
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2512.05270
+
+- id: egotraj
+  title: "EgoTraj: Real-World Egocentric Human Trajectory Dataset"
+  authors: Ahmad Yehia, Abduallah Mohamed, Tianyi Wang, Jiseop Byeon, Kun Qian, Junfeng Jiao, Christian Claudel
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2026
+  short: ECCV 2026
+  thumb: /assets/images/pubs/egotraj.webp
+  links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-032-37196-6_35
+    - label: arXiv
+      url: https://arxiv.org/abs/2605.19004
+    - label: code & data
+      url: https://github.com/yehiahmad/EgoTraj
+
+- id: arcas
+  title: "ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety"
+  authors: Ahmad Yehia, Jiseop Byeon, Tianyi Wang, Huihai Wang, Yiming Xu, Junfeng Jiao, Christian Claudel
+  venue: IEEE Intelligent Vehicles Symposium (IV)
+  year: 2026
+  short: IV 2026
+  thumb: /assets/images/pubs/arcas.webp
+  links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/11623971/
+    - label: arXiv
+      url: https://arxiv.org/abs/2512.05299
+
+- id: pave
+  hidden: true   # preprint — the site lists accepted papers only (owner, Sep 2026)
+  title: "PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies"
+  authors: Ahmad Yehia, Abduallah Mohamed, Kun Qian, Tianyi Wang, Jiseop Byeon, Omar Hassanin, Christian Claudel
+  venue: arXiv preprint
+  year: 2026
+  short: Preprint 2026
+  thumb: /assets/images/pubs/pave.webp
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2605.19351
+
+- id: solar-phased-arrays
+  hidden: true
+  title: Solar phased arrays-based wireless power for commercial aviation decarbonization
+  authors: Christian Claudel, Tianyi Wang, Yiming Xu, Jiseop Byeon, Junfeng Jiao, Javad Mohammadi, Kara Kockelman, Alexandre Bayen
+  venue: Research Square preprint
+  year: 2026
+  short: Preprint 2026
+  links:
+    - label: preprint
+      url: https://www.researchsquare.com/article/rs-9591486/v1

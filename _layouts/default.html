@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+{% include head.html %}
+</head>
+<body>
+  <div class="page">
+    <main>
+      {%- unless page.url == "/" %}
+      <p class="back"><a href="{{ '/' | relative_url }}">&larr; {{ site.data.profile.name }}</a></p>
+      {%- endunless %}
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+</body>
+</html>

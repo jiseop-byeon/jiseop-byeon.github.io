@@ -1,0 +1,37 @@
+---
+layout: default
+title: Residence in Itaewon, Seoul
+permalink: /projects/itaewon/
+description: Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea — site analysis, design concept, and drawings.
+galleries:
+  - title: Site analysis
+    dir: /assets/images/luxury/site_analysis
+    prefix: site_analysis_page-
+    count: 30
+  - title: Design concept
+    dir: /assets/images/luxury/design_concept
+    prefix: design_concept_page-
+    count: 10
+  - title: Drawings (in Korean)
+    dir: /assets/images/luxury/drawings
+    prefix: drawings_page-
+    count: 24
+    tall: true
+---
+
+<h1>Residence in Itaewon, Seoul</h1>
+<p class="muted">Luxury Residential House Design in Itaewon-dong 258-66, Seoul, Korea · ARE3080 Architectural Integrated Design I, Hanyang University · Mar – Jun 2022</p>
+<p>A house for a family of five, shaped by each resident&rsquo;s daily routine, from site analysis and legal review to a full drawing set. Designed with AutoCAD, Revit, and SketchUp.</p>
+
+<p class="figure"><a href="{{ '/assets/images/project_luxury_overview.png' | relative_url }}"><img src="{{ '/assets/images/web/project_luxury_overview.webp' | relative_url }}" width="1276" height="666" alt="Structural perspective with the stair core and exploded axonometric of each floor"></a></p>
+<p class="muted">Structural perspective with the stair core (left) and exploded axonometric of each floor (right). Click any page below to open it at full size.</p>
+
+{%- for g in page.galleries %}
+<h2>{{ g.title }}</h2>
+<div class="thumbs{% if g.tall %} thumbs--tall{% endif %}">
+  {%- for i in (1..g.count) %}
+  {%- capture n %}000{{ i }}{% endcapture %}{% assign n = n | slice: -4, 4 %}
+  <a href="{{ g.dir | append: '/' | append: g.prefix | append: n | append: '.jpg' | relative_url }}"><img src="{{ g.dir | append: '/thumb/' | append: g.prefix | append: n | append: '.webp' | relative_url }}" loading="lazy" alt="{{ g.title }}, page {{ i }}"></a>
+  {%- endfor %}
+</div>
+{%- endfor %}

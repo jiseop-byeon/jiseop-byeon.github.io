@@ -1,0 +1,39 @@
+# Top of the homepage.
+name: Jiseop Byeon
+role: Ph.D. Student in Civil Engineering
+affiliation: The University of Texas at Austin
+photo: /assets/images/web/profile-300.webp
+
+# Bio paragraphs (Markdown). Keep it short.
+bio:
+  - >-
+    I am a Ph.D. student in Civil Engineering at
+    [The University of Texas at Austin](https://www.utexas.edu/), advised by
+    [Dr.&nbsp;Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel)
+    in the [MASS Lab](https://www.mass-lab-ut.com/). I work on robotics, sensing, and augmented
+    reality for automated civil and construction systems, with a focus on robots for construction
+    sites and factories.
+  - >-
+    I received my M.S. in Civil Engineering from UT Austin and my B.S. in Architectural
+    Engineering from Hanyang University.
+  - >-
+    I keep my study notes in [Physical AI Notes](https://jiseop-byeon.github.io/phd-wiki/),
+    an open wiki on deep learning and construction robotics.
+
+email: jsbyeon@utexas.edu
+
+# The row of links under the bio, in order. `tba: true` shows the label as "(TBA)" without a link.
+links:
+  - label: Email
+    url: mailto:jsbyeon@utexas.edu
+  - label: CV
+    url: /cv/
+    tba: true
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=gO4rtMQAAAAJ&hl=en
+  - label: GitHub
+    url: https://github.com/jiseop-byeon
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/jiseop-byeon-887086208/
+  - label: Notes (Wiki)
+    url: https://jiseop-byeon.github.io/phd-wiki/

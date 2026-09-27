@@ -1,0 +1,44 @@
+# Projects, newest first. `id` is the link anchor (e.g. /#luxury) — keep existing ones stable.
+# `hidden: true` keeps an entry here but leaves it off the site (homepage and CV). The site currently
+# shows only CS/robotics work, so these earlier projects are hidden; delete the line to show one again.
+# With every project hidden, the Projects section disappears on its own.
+# `image` is the small picture beside the entry; `links` are shown as [label] after the text.
+- id: bayesian
+  hidden: true
+  image: /assets/images/web/project_bayesian_gam.webp
+  title: Cyclist speed zones from bike-share data
+  text: Bayesian spatial models on 100,000 Austin MetroBike trips map fast and slow cycling zones.
+  when: 2025
+  links:
+    - label: figure
+      url: /assets/images/project_bayesian_gam.png
+
+- id: sarima
+  hidden: true
+  image: /assets/images/web/project_sarima_SBout_prediction.webp
+  title: Weekly traffic forecasting with SARIMA
+  text: One-week traffic forecasts from 15-minute radar counts at the Lamar–Manchaca intersection, Austin.
+  when: 2024
+  links:
+    - label: figure
+      url: /assets/images/project_sarima_SBout_prediction.png
+
+- id: mfc
+  hidden: true
+  image: /assets/images/web/project_mfc_grasshopper.webp
+  title: Micro-fulfillment centers on Seoul gas-station sites
+  text: Site selection and sizing across Seoul's 472 gas stations using Voronoi service areas in Rhino/Grasshopper.
+  when: Hanyang University, 2022
+  links:
+    - label: figure
+      url: /assets/images/project_mfc_grasshopper.png
+
+- id: luxury
+  hidden: true
+  image: /assets/images/web/project_luxury_overview.webp
+  title: Residence in Itaewon, Seoul
+  text: A house for a family of five, from site analysis to a full drawing set.
+  when: Hanyang University, 2022
+  links:
+    - label: drawings
+      url: /projects/itaewon/   # page kept in _archive/projects/itaewon.html (not published)

@@ -1,0 +1,78 @@
+---
+layout: default
+title: CV
+permalink: /cv/
+description: Curriculum vitae of Jiseop Byeon, Ph.D. student in Civil Engineering at The University of Texas at Austin.
+---
+{%- assign p = site.data.profile -%}
+{%- capture me %}<strong>{{ p.name }}</strong>{% endcapture -%}
+
+<h1>Curriculum Vitae</h1>
+<p class="muted">{{ p.name }} · {{ p.role }}, {{ p.affiliation }} · <a href="mailto:{{ p.email }}">{{ p.email }}</a></p>
+
+<h2>Education</h2>
+<ul>
+  {%- for e in site.data.education %}
+  <li>{{ e.title }}, {{ e.where }}, <span class="nowrap">{{ e.when }}</span>{% if e.note %} <span class="muted">({{ e.note }})</span>{% endif %}</li>
+  {%- endfor %}
+</ul>
+
+{%- assign pubs = site.data.publications | where_exp: "x", "x.hidden != true" %}
+{%- if pubs.size > 0 %}
+<h2>Publications</h2>
+<ul>
+  {%- for pub in pubs %}
+  <li>{{ pub.authors | replace: p.name, me }}. {{ pub.title }}. <em>{{ pub.venue }}</em>, {{ pub.year }}.{% for l in pub.links %} <a href="{{ l.url }}">[{{ l.label | escape }}]</a>{% endfor %}</li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign research = site.data.research | where_exp: "x", "x.hidden != true" %}
+{%- if research.size > 0 %}
+<h2>Research</h2>
+<ul>
+  {%- for r in research %}
+  <li><a href="{{ '/' | relative_url }}#{{ r.id }}">{{ r.title }}</a>, {{ r.where }}, <span class="nowrap">{{ r.period }}</span></li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign projects = site.data.projects | where_exp: "x", "x.hidden != true" %}
+{%- if projects.size > 0 %}
+<h2>Projects</h2>
+<ul>
+  {%- for pr in projects %}
+  <li><a href="{{ '/' | relative_url }}#{{ pr.id }}">{{ pr.title }}</a>, {{ pr.when }}</li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+
+<h2>Honors</h2>
+<ul>
+  {%- for h in site.data.honors %}
+  <li>{{ h.title | smartify }}, <span class="nowrap">{{ h.when }}</span></li>
+  {%- endfor %}
+</ul>
+
+<h2>Skills</h2>
+<ul>
+  {%- for s in site.data.skills %}{% unless s.hidden %}
+  <li>{{ s.group }}: {{ s.items | join: ", " }}</li>
+  {%- endunless %}{% endfor %}
+</ul>
+
+<h2>Certificates</h2>
+<ul>
+  {%- for c in site.data.certificates %}
+  <li>
+    {{ c.title }}, {{ c.issuer }}, <span class="nowrap">{{ c.when }}</span>{% if c.url %} <a href="{{ c.url }}">[certificate]</a>{% endif %}
+    {%- if c.courses %}
+    <ul>
+      {%- for course in c.courses %}
+      <li><a href="{{ course.url }}">{{ course.title }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </li>
+  {%- endfor %}
+</ul>

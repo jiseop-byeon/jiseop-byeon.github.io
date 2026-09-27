@@ -1,0 +1,23 @@
+# Newest first. `date` is shown as written; `text` is Markdown (one line).
+# `hidden: true` keeps an item here but leaves it off the site.
+- date: Sep 2026
+  text: "Presenting [XR-DT](#hrc) at **IROS 2026**."
+- date: Sep 2026
+  text: "[EgoTraj](#egotraj), a real-world egocentric human trajectory dataset, published at **ECCV 2026**."
+- date: Aug 2026
+  text: Started my Ph.D. in Civil Engineering at UT Austin, continuing in the MASS Lab with Dr.&nbsp;Christian Claudel.
+- date: Jun 2026
+  text: "[ARCAS](#arcas) published at **IEEE IV 2026**."
+- date: Sep 2025
+  hidden: true
+  text: Started a project on augmented mobile robots with shared perception.
+- date: May 2025
+  hidden: true
+  text: "ARCAS phase 2: shared perception across multiple AR headsets."
+- date: Jan 2025
+  text: Started ARCAS, an AR collision-avoidance system, in collaboration with Honda Development & Manufacturing of America.
+- date: Aug 2024
+  text: Joined UT Austin as an M.S. student, supported by the U.S.–Korea Fulbright Presidential STEM Initiative.
+- date: Feb 2024
+  hidden: true
+  text: Graduated *summa cum laude* from Hanyang University.
