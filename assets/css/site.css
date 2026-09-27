@@ -55,7 +55,8 @@ img { max-width: 100%; height: auto; }
 .intro__role { margin: 2px 0 16px; color: var(--muted); }
 .intro__aff { display: inline-block; }
 /* Korean name and Hanja: sized relative to the name (about 60%), not bold. */
-.name-ko { margin-left: 0.3em; font-size: 0.6em; font-weight: 400; color: var(--muted); white-space: nowrap; }   /* the university name wraps as one unit */
+.name-ko { margin-left: 0.3em; font-size: 0.6em; font-weight: 400; color: var(--muted); white-space: nowrap; }
+.name-ko + .name-ko { margin-left: 0; }   /* just one space between 변지섭 and 卞智燮 */   /* the university name wraps as one unit */
 .intro__photo { flex: none; width: 150px; height: 150px; object-fit: cover; }   /* square */
 /* Link row as icons: calm grey, near-black on hover; each target is 34px square. */
 .icons { display: flex; flex-wrap: wrap; gap: 4px; margin: 2px 0 0 -6px; padding: 0; list-style: none; }
