@@ -11,17 +11,20 @@ layout: default
 <section class="intro">
   <div class="intro__text">
     <h1>{{ p.name }}</h1>
-    <p class="intro__role">{{ p.role }}, {{ p.affiliation }}</p>
+    <p class="intro__role">{{ p.role }}, <span class="intro__aff">{{ p.affiliation }}</span></p>
     {%- for para in p.bio %}
     {{ para | markdownify }}
     {%- endfor %}
-    <p class="links">
+    <ul class="icons" aria-label="Contact and profiles">
       {%- for l in p.links %}
       {%- if l.url contains "://" or l.url contains "mailto:" %}{% assign href = l.url %}{% else %}{% assign href = l.url | relative_url %}{% endif %}
-      {%- comment %} Each label keeps its trailing "/" on the same line. {% endcomment %}
-      <span class="nowrap">{% if l.tba %}<span class="muted">{{ l.label }} (TBA)</span>{% else %}<a href="{{ href }}">{{ l.label }}</a>{% endif %}{% unless forloop.last %}<span class="sep" aria-hidden="true">&nbsp;/</span>{% endunless %}</span>
+      {%- if l.tba %}
+      <li><span class="icons__off" role="img" aria-label="{{ l.label }} (to be announced)" title="{{ l.label }} (TBA)">{% include icon.html name=l.icon %}</span></li>
+      {%- else %}
+      <li><a href="{{ href }}" aria-label="{{ l.label }}" title="{{ l.label }}">{% include icon.html name=l.icon %}</a></li>
+      {%- endif %}
       {%- endfor %}
-    </p>
+    </ul>
   </div>
   <img class="intro__photo" src="{{ p.photo | relative_url }}" width="150" height="150" alt="Photo of {{ p.name }}">
 </section>

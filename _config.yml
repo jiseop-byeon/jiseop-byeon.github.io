@@ -58,6 +58,7 @@ exclude:
   - assets/images/web/project_*
   - assets/images/research_*
   - assets/images/web/research_*
+  - assets/images/pubs/pave.webp
   - README.md
   - Gemfile
   - Gemfile.lock

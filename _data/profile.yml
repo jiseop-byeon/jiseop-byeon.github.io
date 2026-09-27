@@ -9,7 +9,7 @@ bio:
   - >-
     I am a Ph.D. student in Civil Engineering at
     [The University of Texas at Austin](https://www.utexas.edu/), advised by
-    [Dr.&nbsp;Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel)
+    [Dr.&nbsp;Christian Claudel](https://caee.utexas.edu/person/christian-claudel/)
     in the [MASS Lab](https://www.mass-lab-ut.com/). I work on robotics, sensing, and augmented
     reality for automated civil and construction systems, with a focus on robots for construction
     sites and factories.
@@ -22,18 +22,25 @@ bio:
 
 email: jsbyeon@utexas.edu
 
-# The row of links under the bio, in order. `tba: true` shows the label as "(TBA)" without a link.
+# The row of icon links under the bio, in order. `icon` is a name from _includes/icon.html; `label` is the
+# tooltip and screen-reader name. `tba: true` shows the icon greyed out, without a link.
 links:
   - label: Email
+    icon: email
     url: mailto:jsbyeon@utexas.edu
   - label: CV
+    icon: cv
     url: /cv/
     tba: true
   - label: Google Scholar
+    icon: scholar
     url: https://scholar.google.com/citations?user=gO4rtMQAAAAJ&hl=en
   - label: GitHub
+    icon: github
     url: https://github.com/jiseop-byeon
   - label: LinkedIn
+    icon: linkedin
     url: https://www.linkedin.com/in/jiseop-byeon-887086208/
   - label: Notes (Wiki)
+    icon: notes
     url: https://jiseop-byeon.github.io/phd-wiki/

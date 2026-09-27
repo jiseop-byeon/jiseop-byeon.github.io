@@ -1,10 +1,10 @@
-/* A plain, standard academic page: one column, system fonts, blue links. */
+/* A plain, standard academic page: one column, system fonts, burnt-orange links. */
 
 :root {
   --bg: #ffffff;
   --text: #1f1f1f;
   --muted: #666666;
-  --link: #1a57c9;
+  --link: #b34d00;     /* deep burnt orange, 5.3:1 on white */
   --rule: #e2e2e2;
 }
 
@@ -13,7 +13,7 @@
     --bg: #171717;
     --text: #e3e3e3;
     --muted: #a0a0a0;
-    --link: #8ab4f8;
+    --link: #f29f5c;   /* light burnt orange, 8.4:1 on the dark background */
     --rule: #333333;
   }
 }
@@ -52,9 +52,15 @@ img { max-width: 100%; height: auto; }
 .intro { display: flex; gap: 36px; align-items: flex-start; }
 .intro__text { flex: 1; min-width: 0; }
 .intro__role { margin: 2px 0 16px; color: var(--muted); }
+.intro__aff { display: inline-block; }   /* the university name wraps as one unit */
 .intro__photo { flex: none; width: 150px; height: 150px; border-radius: 50%; object-fit: cover; }
-.links { margin-bottom: 0; }
-.links .sep { color: var(--muted); }
+/* Link row as icons: calm grey, link colour on hover; each target is 34px square. */
+.icons { display: flex; flex-wrap: wrap; gap: 4px; margin: 2px 0 0 -6px; padding: 0; list-style: none; }
+.icons li { margin: 0; }
+.icons a, .icons__off { display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 4px; color: var(--muted); }
+.icons a:hover { color: var(--link); }
+.icons svg { width: 22px; height: 22px; }
+.icons__off { opacity: 0.55; cursor: default; }
 
 /* News: wrapped lines align with the text, not the date */
 .news { list-style: none; padding: 0; }
