@@ -9,7 +9,7 @@ Selected Publications. Everything shown comes from the files in `_data/`.
 
 | File | What it controls |
 | --- | --- |
-| `profile.yml` | Name, role, photo, bio paragraphs, and the link row (Email / CV / Google Scholar / GitHub / LinkedIn / Notes). `tba: true` on a link shows "(TBA)" instead of a link. |
+| `profile.yml` | Name, role, photo, bio paragraphs, and the link row (Email / CV / Google Scholar / GitHub / LinkedIn). `tba: true` on a link shows "(TBA)" instead of a link. |
 | `news.yml` | News list, newest first (keep it to about six items) |
 | `publications.yml` | Papers: title, authors (your name is bolded automatically), venue, year, links, and `thumb` (the paper's key figure, 480x360 WebP in `assets/images/pubs/`) |
 | `research.yml`, `projects.yml` | Research/project entries (currently all hidden) |

@@ -19,9 +19,6 @@ bio:
     I received my M.S. in Civil Engineering from UT Austin and my B.S. in Architectural
     Engineering from Hanyang University. During my M.S., I was a grantee of the
     [U.S.–Korea Fulbright Presidential STEM Initiative](https://www.fulbright.or.kr/en/grant/graduatestem/).
-  - >-
-    I keep my study notes in [Physical AI Notes](https://jiseop-byeon.github.io/phd-wiki/),
-    an open wiki on deep learning and construction robotics.
 
 email: jsbyeon@utexas.edu
 
@@ -44,6 +41,3 @@ links:
   - label: LinkedIn
     icon: linkedin
     url: https://www.linkedin.com/in/jiseop-byeon-887086208/
-  - label: Notes (Wiki)
-    icon: notes
-    url: https://jiseop-byeon.github.io/phd-wiki/
