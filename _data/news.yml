@@ -1,7 +1,7 @@
 # Newest first. `date` is shown as written; `text` is Markdown (one line).
 # `hidden: true` keeps an item here but leaves it off the site.
 - date: Sep 2026
-  text: "Presenting [XR-DT](#hrc) at **IROS 2026**."
+  text: "Presented [XR-DT](#hrc) at **IROS 2026**."
 - date: Sep 2026
   text: "[EgoTraj](#egotraj), a real-world egocentric human trajectory dataset, published at **ECCV 2026**."
 - date: Aug 2026
