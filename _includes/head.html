@@ -6,5 +6,8 @@
 {%- endif %}
 {%- comment %} ?v= changes on every build, so browsers never pair a new page with a cached old stylesheet. {% endcomment %}
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
-<link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+{%- comment %} Site icon = the profile photo. PNGs work in every browser (Safari ignores SVG icons). {% endcomment %}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/icons/favicon-32.png' | relative_url }}?v=2">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/images/icons/favicon-192.png' | relative_url }}?v=2">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}?v=2">
 {% seo %}

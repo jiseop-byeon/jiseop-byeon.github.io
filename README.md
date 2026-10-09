@@ -40,6 +40,7 @@ Originals live in `assets/images/`. The site shows smaller copies:
 
 - `assets/images/pubs/<paper>.webp` — publication figures (480x360)
 - `assets/images/web/` — profile photo and other web-sized copies
+- Site icon: `assets/images/icons/favicon-32.png`, `favicon-192.png`, plus `apple-touch-icon.png` and `favicon.ico` at the root — all made from `assets/images/profile.jpg`. If you change the photo, regenerate them and bump `?v=` in `_includes/head.html`.
 
 Images of hidden entries are listed under `exclude` in `_config.yml`, so they stay in the repo but are not published.
 

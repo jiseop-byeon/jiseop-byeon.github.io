@@ -11,3 +11,4 @@ Jekyll skips folders that start with `_`, so nothing here appears on the site.
   from the CV link in `_data/profile.yml` to publish it again.
 - `projects/itaewon.html` — the Itaewon residence drawings page. To publish it again, move it back to
   `projects/itaewon.html` and remove `assets/images/luxury` from `exclude` in `_config.yml`.
+- `favicon-jb.svg` — the previous "JB" site icon (replaced by the profile photo in Oct 2026).
