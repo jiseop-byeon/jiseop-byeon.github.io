@@ -2,14 +2,14 @@
 layout: default
 title: CV
 permalink: /cv/
-description: Curriculum vitae of Jiseop Byeon — to be announced.
+description: Curriculum vitae of Jiseop Byeon.
 sitemap: false
 noindex: true
 ---
 {%- comment -%}
-  Placeholder while the CV is being revised. The full CV page (education, publications, honors, skills,
-  certificates, all driven by _data) is kept in _archive/cv.html — move it back here to publish it again,
-  and remove `tba: true` from the CV link in _data/profile.yml.
+  The CV is a PDF built from cv/cv_jiseop.tex; the homepage CV icon links straight to it. This page only
+  catches visits to /cv/. The old data-driven CV page is kept in _archive/cv.html.
 {%- endcomment -%}
+{%- assign pdf = '/cv/cv_jiseop.pdf' | relative_url -%}
 <h1>Curriculum Vitae</h1>
-<p>TBA — my CV is being updated. In the meantime, see the <a href="{{ '/' | relative_url }}">homepage</a> or email <a href="mailto:{{ site.data.profile.email }}">{{ site.data.profile.email }}</a>.</p>
+<p><a href="{{ pdf }}">Download my CV (PDF)</a>.</p>

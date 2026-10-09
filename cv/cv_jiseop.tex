@@ -1,0 +1,170 @@
+% CV of Jiseop Byeon
+% Build: tectonic cv_jiseop.tex   (or upload to Overleaf)
+
+\documentclass[10pt]{article}
+
+\usepackage[letterpaper,margin=0.75in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}            % Times
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{needspace}
+\usepackage{fontawesome5}  % header icons
+
+\hypersetup{pdftitle={Jiseop Byeon - CV}, pdfauthor={Jiseop Byeon}}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\hyphenpenalty=10000 \exhyphenpenalty=10000  % no word breaks, like the original
+\AtBeginDocument{\raggedright}  % left-aligned, like the original
+
+% ---------- Section style ----------
+\titleformat{\section}{\Large\bfseries}{}{0pt}{}[\vspace{-0.6em}\rule{\textwidth}{0.4pt}]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+% Never leave a section heading alone at the bottom of a page
+\let\oldsection\section
+\renewcommand{\section}[1]{\needspace{7\baselineskip}\oldsection{#1}}
+
+% ---------- Lists ----------
+\setlist[itemize]{label=\textbullet, leftmargin=2.2em, itemsep=0pt, topsep=1pt, parsep=0pt}
+
+% ---------- Macros ----------
+\definecolor{linkcolor}{HTML}{333333}  % dark gray: a touch lighter than the black text
+\newcommand{\link}[2]{\href{#1}{\textcolor{linkcolor}{#2}}}
+% \iconlink{url}{icon}{name}: icon-only link (name kept in the source for readability)
+\newcommand{\iconlink}[3]{\href{#1}{\textcolor{linkcolor}{#2}}}
+\newcommand{\me}{\uline{Jiseop Byeon}}
+
+% \entry{Title, location}{Dates}{Subtitle (italic)}
+\newcommand{\entry}[3]{%
+  \par\needspace{4\baselineskip}% keep an entry's heading with its first lines
+  \noindent{#1}\hfill{#2}\par
+  \ifx&#3&\else\noindent\textit{#3}\par\fi
+}
+% \degree{Degree (italic)}{Dates}: one of several degrees under a single \entry
+\newcommand{\degree}[2]{\noindent\textit{#1}\hfill#2\par}
+% \award{Name}{Dates}
+\newcommand{\award}[2]{\noindent#1\hfill#2\par}
+\newcommand{\gap}{\vspace{6pt}}
+% Sub-heading inside a section, kept with the lines that follow it
+\newcommand{\subhead}[1]{\par\needspace{4\baselineskip}\noindent\textbf{#1}\par}
+
+% Footer on the last page only (sits in the bottom margin, so it never pushes text to a new page)
+% Filled in automatically with the build date, e.g. "Oct 5th, 2026"
+\newcommand{\ordinal}[1]{#1\ifcase#1\or st\or nd\or rd\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or th\or st\or nd\or rd\or th\or th\or th\or th\or th\or th\or th\or st\fi}
+\newcommand{\lastupdate}{\ifcase\month\or Jan\or Feb\or Mar\or Apr\or May\or Jun\or Jul\or Aug\or Sep\or Oct\or Nov\or Dec\fi\ \ordinal{\the\day}, \the\year}
+\makeatletter
+\newcommand{\ps@lastupdate}{%
+  \renewcommand{\@oddhead}{}\renewcommand{\@evenhead}{}%
+  \renewcommand{\@oddfoot}{\hfill\small Last update: \lastupdate}%
+  \renewcommand{\@evenfoot}{\@oddfoot}}
+\makeatother
+
+\begin{document}
+
+% ================= Header =================
+\begin{center}
+  {\fontsize{22}{26}\selectfont\bfseries Jiseop Byeon}\\[4pt]
+  {\small 301 E Dean Keeton St, Austin, TX 78712 \textbullet\
+  \href{mailto:jsbyeon@utexas.edu}{jsbyeon@utexas.edu}\quad
+  \iconlink{https://jiseop-byeon.github.io/}{\faGlobe}{Website}\enspace
+  \iconlink{https://scholar.google.com/citations?user=gO4rtMQAAAAJ}{\faGraduationCap}{Google Scholar}\enspace
+  \iconlink{https://github.com/jiseop-byeon}{\faGithub}{GitHub}\enspace
+  \iconlink{https://www.linkedin.com/in/jiseop-byeon-887086208/}{\faLinkedin}{LinkedIn}}
+\end{center}
+\vspace{-8pt}  % pull the first section up toward the header
+
+% ================= Education =================
+\section{Education}
+\entry{\textbf{The University of Texas at Austin}, Austin, Texas}{}{}
+\degree{Ph.D.\ in Civil Engineering}{Aug.\ 2026 -- Present}
+\degree{M.S.\ in Civil Engineering}{Aug.\ 2024 -- May 2026}
+\begin{itemize}
+  \item \textbf{Advisor}: Dr.\ Christian Claudel
+  \item \textbf{GPA}: 3.96/4.00
+\end{itemize}
+\gap
+
+\entry{\textbf{Hanyang University}, Seoul, Korea}{Mar.\ 2018 -- Feb.\ 2024}{B.S.\ in Architectural Engineering, Minor in Mechanical Engineering}
+\begin{itemize}
+  \item \textbf{GPA}: 4.11/4.50 $|$ \textbf{Degree Honors}: Summa Cum Laude
+  \item \textbf{Exchange Student} in Civil Engineering, University of Michigan, Ann Arbor (Fall 2021) $|$ \textbf{GPA}: 3.73/4.00
+  \item Leave of absence for mandatory military service, Republic of Korea Air Force (Apr.\ 2019 -- Feb.\ 2021)
+\end{itemize}
+
+% ================= Honors =================
+\section{Honors and Awards}
+\award{Birmingham Britton Graduate Fellowship in Engineering, UT Austin}{Fall 2026 -- Spring 2027}
+\award{Fulbright Graduate Fellowship, U.S.-Korea Presidential STEM Initiative, Fulbright Korea}{Fall 2024 -- Spring 2026}
+\award{Graduate Dean's Prestigious Supplement Fellowship, UT Austin}{Fall 2025}
+\award{George J. Heuer, Jr. Ph.D. Endowed Graduate Fellowship, UT Austin}{Fall 2024, Spring 2025}
+\award{Corporate-sponsored Scholarship, Duckshin EPC Co., Ltd}{Spring 2023}
+\award{Merit-based Scholarship, Hanyang University}{Spring 2019, Fall 2021, Fall 2022}
+
+% ================= Publications =================
+\section{Publications}
+% Source: Google Scholar (user=gO4rtMQAAAAJ) and ../_data/publications.yml. Newest first.
+\subhead{Conference Papers}
+\begin{itemize}
+  \item {[C3]} Tianyi Wang\textdagger, \me\textdagger, Ahmad Yehia\textdagger, Yiming Xu, Jihyung Park, Tianyi Zeng,
+        Sikai Chen, Ziran Wang, Junfeng Jiao, Christian Claudel*,
+        ``XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning Via Human-Aware Model Predictive
+        Path Integral Control,'' \textit{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 2026.
+  \item {[C2]} Ahmad Yehia, Abduallah Mohamed, Tianyi Wang, \me, Kun Qian, Junfeng Jiao, Christian Claudel,
+        ``EgoTraj: Real-World Egocentric Human Trajectory Dataset,''
+        \textit{European Conference on Computer Vision (ECCV)}, pp.~643--660, 2026.
+  \item {[C1]} Ahmad Yehia\textdagger, \me\textdagger, Tianyi Wang\textdagger, Huihai Wang, Yiming Xu, Junfeng Jiao,
+        Christian Claudel*,
+        ``ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety,''
+        \textit{IEEE Intelligent Vehicles Symposium (IV)}, pp.~2038--2045, 2026.
+\end{itemize}
+\gap
+
+\subhead{Preprints}
+\begin{itemize}
+  \item {[P2]} Ahmad Yehia, Abduallah Mohamed, Kun Qian, Tianyi Wang, \me, Omar Hassanin, Christian Claudel,
+        ``PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies,''
+        \textit{arXiv preprint arXiv:2605.19351}, 2026.
+  \item {[P1]} Christian Claudel, Tianyi Wang, Yiming Xu, \me, Junfeng Jiao, Javad Mohammadi, Kara Kockelman,
+        Alexandre Bayen,
+        ``Solar Phased Arrays-Based Wireless Power for Commercial Aviation Decarbonization,''
+        \textit{Research Square preprint}, 2026.
+\end{itemize}
+{\small \textdagger\ Equal contribution; * Corresponding author}
+
+% ================= Presentations =================
+\section{Presentations}
+\begin{itemize}
+  \item ``XR-DT: Extended Reality-Enhanced Digital Twin for Safe Motion Planning Via Human-Aware Model Predictive
+        Path Integral Control,'' \textit{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+        Pittsburgh, PA, Sep.~2026. (Lightning Talk and Poster)
+\end{itemize}
+
+% ================= Research Experience =================
+\section{Research Experience}
+\entry{\href{https://www.mass-lab-ut.com/}{\textbf{Mobile Automation and Sensing Systems (MASS) Lab}}, The University of Texas at Austin}{Jan.\ 2025 -- Present}{}
+\degree{Graduate Research Assistant}{Aug.\ 2026 -- Present}
+\noindent Advisor: Dr.\ Christian Claudel $|$ In collaboration with Honda Development \& Manufacturing of America\par
+\begin{itemize}
+  \item Co-developed XR-DT, an extended-reality digital twin for human--robot interaction with a human-aware
+        MPPI motion planner using egocentric trajectory prediction (IROS 2026).
+  \item Co-developed ARCAS, an AR collision-avoidance system that streams LiDAR-based hazard detections to
+        AR headsets for vulnerable road user safety (IEEE IV 2026).
+\end{itemize}
+
+% ================= Skills =================
+\section{Skills}
+\begin{itemize}
+  \item \textbf{Languages:} Python, C++, C\#, MATLAB, R
+  \item \textbf{Libraries / Frameworks:} Numpy, Pandas, PyTorch, Matplotlib, Seaborn, OpenCV, ROS
+  \item \textbf{Design / Tools:} Unity, AutoCAD, Sketchup, Rhinoceros 3D / Git, \LaTeX\
+  \item \textbf{Additional Skills:} LiDAR processing, point-cloud tracking, real-time TCP/IP networking
+\end{itemize}
+
+\thispagestyle{lastupdate}
+
+\end{document}

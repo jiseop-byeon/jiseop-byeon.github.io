@@ -30,8 +30,8 @@ links:
     url: mailto:jsbyeon@utexas.edu
   - label: CV
     icon: cv
-    url: /cv/
-    tba: true
+    # The PDF built from cv/cv_jiseop.tex (`tectonic cv_jiseop.tex` in cv/).
+    url: /cv/cv_jiseop.pdf
   - label: Google Scholar
     icon: scholar
     url: https://scholar.google.com/citations?user=gO4rtMQAAAAJ&hl=en

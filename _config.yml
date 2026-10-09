@@ -59,6 +59,8 @@ exclude:
   - assets/images/research_*
   - assets/images/web/research_*
   - assets/images/pubs/pave.webp
+  # LaTeX source of the CV; only the compiled PDF is published.
+  - cv/*.tex
   - README.md
   - Gemfile
   - Gemfile.lock
